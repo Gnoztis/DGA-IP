@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/pan-unit42/iocs/master/keybase/keybase_ioc.csv
+#https://raw.githubusercontent.com/pan-unit42/iocs/master/keybase/keybase_ioc.csv
 
 http://nelsonpanel.96.lt/keybase/keybase/post.php
 http://www.rylynnbrackett.com/keybase/post.php
