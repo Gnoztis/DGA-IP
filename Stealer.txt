@@ -2,6 +2,7 @@
 #**DO NOT RUN SAMPLES ON YOUR HOST COMPUTER! USE A VIRTUAL MACHINE**
 #
 
+#AZORult.Stealer
 http://down.soft.flyidea.top/licecap/licecapinstall-4747.exe
 d1d2c312fe8df926ffbd63f54b5612e99025360c5557f606c0fb92e75525afbc
 261b0c16dec569cd752b6609a39d8f533859c3f4
