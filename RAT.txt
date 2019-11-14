@@ -3,7 +3,6 @@
 #
 
 #Lime-RAT/njRAT
-
 http://securefiless-001-site1.ftempurl.com/windrr.exe
 7d3799901b4031fdaea0e2e1c0822b1183766d12405039fd75d48344db61ab73
 ee702cb54c3b6dd6f8f9e055a357f19b6ea8053c
@@ -11,3 +10,12 @@ df6d5e08ce43828353f5bdc43b44c795
 71d6a7a3fe5f8dc878cd5bdeca0e09177efb85c01e9a8a10a95262cabefaa019
 7d3799901b4031fdaea0e2e1c0822b1183766d12405039fd75d48344db61ab73
 193.161.193.99
+
+
+#njRAT/Bladabindi
+http://zimshop.co.za/wp/wp-admin/milk.exe
+38df39b8f59e65ddfc8558b554ed8449815e2a1da263911f5fa5adc610101ae5
+24ffe3043b12a6db42cae02a6f46e213e3012fce
+b6fb59b629ff7361ca59bc57d44b3ffe
+mailsdc61.ga
+194.5.97.31
