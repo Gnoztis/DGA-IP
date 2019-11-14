@@ -47,5 +47,58 @@ afc2f22c7383d4aa39bab4e625a7faf9f5bda9e0f2d8998238937a3e99852b43
 2ebde191d15564436992a5f15c25c9ccc18e51a1
 e6e171b07e4ccbf5e97946ced7b663a7
 
+#posible AgentTesla
+http://dev-nextgen.com/home/wp-admin/network/admin/dab.exe
+b8d62c1440be9d368ea338e3f95d14de973a15aec8da41829aca6647024508c1
+b74880a03df92aa4c037895903403f50500b1313
+f750bcc8173fe565f1f55fc57add3069
+smtp.zoho.com
+136.143.191.189
+
+#posible AgentTesla
+http://dev-nextgen.com/home/wp-admin/network/admin/mat.exe
+f3d38fadf99d23ee9b664e99abce2a9cd07961fce43c59ec027bf06ed02a4366
+60b6a86bd2f294f1dc612bec6434d2471eb0b06e
+778f13380afd52ad1c907f42d6dbdeff
+
+#Posible AgentTesla
+http://dev-nextgen.com/home/wp-admin/network/admin/wh.exe
+fe7aa5fbece62255d02dcb94ed643799090beb67a905c8eaa72e602068be49f1
+6aad2e46cc055e268406c607a44e4b66c8c48774
+9a450bf91dd81b877e4ce7125f747a3c
+smtp.ftmpack-tr.com
+208.91.198.143
+
+#Posible AgentTesla
+http://gessuae.ae/wp-includes/images/smilies/all.exe
+1103fbbd695bd21c75bf6eea3c706a5e12184b44b4735e10e91600a07b06db45
+9077ae9a181ca1b99d9d4349f0e91cd925f89e1f
+cf4e717011c38ac291615fcb6b328837
+smtp.autocliima.com
+209.99.40.222
+
+#Posible AgentTesla
+http://gessuae.ae/wp-includes/images/smilies/f.exe
+e9718c6b778b759b3d49588ca107cb2020fda5195136436134e591b61e1f08a0
+4dbf491c653bcb8cee59b495316da8c39c8bc01b
+40135515fb68aa1df04d023512a9c974 
+smtp.auximad-mg.com
+208.91.199.223
+
+#Posible AgentTesla
+http://gessuae.ae/wp-includes/images/smilies/sal.exe
+6fee493444a9433aae255fca8fa414c477a7a86103e6a08fd7831d7b84decf7f
+2f16f448009c404239dbc1e24041f29d1cbc6d6f
+f5723d679cdb6dad8512e9ba005855ef 
+smtp.mrfireman.xyz
+
+#Posible AgentTesla
+http://gessuae.ae/wp-includes/images/smilies/oo.exe
+1e526380c7a79b829858e5047f3395236daee7bacabdc74ef5d2ea43d352722d
+82cd4018344fd1d434aea3dd3295127010961f16
+8b9e45d5d11a2131b1d216192c0eb925 
+smtp.insanbatbi.com
+208.91.199.224
+
 
 
