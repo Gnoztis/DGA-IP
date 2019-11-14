@@ -34,10 +34,18 @@ f3d38fadf99d23ee9b664e99abce2a9cd07961fce43c59ec027bf06ed02a4366
 60b6a86bd2f294f1dc612bec6434d2471eb0b06e
 778f13380afd52ad1c907f42d6dbdeff
 
-#posible AgentTesla
+#Posible AgentTesla
 http://dev-nextgen.com/home/wp-admin/network/admin/wh.exe
 fe7aa5fbece62255d02dcb94ed643799090beb67a905c8eaa72e602068be49f1
 6aad2e46cc055e268406c607a44e4b66c8c48774
 9a450bf91dd81b877e4ce7125f747a3c
 smtp.ftmpack-tr.com
 208.91.198.143
+
+#Posible AgentTesla
+http://gessuae.ae/wp-includes/images/smilies/all.exe
+1103fbbd695bd21c75bf6eea3c706a5e12184b44b4735e10e91600a07b06db45
+9077ae9a181ca1b99d9d4349f0e91cd925f89e1f
+cf4e717011c38ac291615fcb6b328837
+smtp.autocliima.com
+209.99.40.222
