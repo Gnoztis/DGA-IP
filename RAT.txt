@@ -19,3 +19,11 @@ http://zimshop.co.za/wp/wp-admin/milk.exe
 b6fb59b629ff7361ca59bc57d44b3ffe
 mailsdc61.ga
 194.5.97.31
+
+#posible AgentTesla
+http://dev-nextgen.com/home/wp-admin/network/admin/dab.exe
+b8d62c1440be9d368ea338e3f95d14de973a15aec8da41829aca6647024508c1
+b74880a03df92aa4c037895903403f50500b1313
+f750bcc8173fe565f1f55fc57add3069
+smtp.zoho.com
+136.143.191.189
