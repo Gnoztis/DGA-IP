@@ -100,5 +100,9 @@ http://gessuae.ae/wp-includes/images/smilies/oo.exe
 smtp.insanbatbi.com
 208.91.199.224
 
-
-
+http://www.gessuae.ae/wp-includes/fonts/yaa.exe	
+72a9c61451232641d2a044a1f4774fed933c58f6dc2884becdf0b4bd1de95ac2
+b5ae65280e82885ee0bdb296db73cf35ec529614
+fa94e348babc6c9d0feaf30f6808fa62
+ifconfig.me
+208.91.199.225
