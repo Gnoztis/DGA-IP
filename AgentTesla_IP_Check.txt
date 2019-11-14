@@ -1,2 +1,3 @@
 checkip.amazonaws.com
 34.236.136.226
+52.55.255.113
