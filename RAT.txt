@@ -19,3 +19,11 @@ http://zimshop.co.za/wp/wp-admin/milk.exe
 b6fb59b629ff7361ca59bc57d44b3ffe
 mailsdc61.ga
 194.5.97.31
+
+#njRAT/Bladabindi
+http://ghwls44.gabia.io/svchost.exe
+6e8cfe6005442b9d088b114acb7683dd469a72eb1d0f4a087a4f565b125f96a3
+aaedf15be5ab30814df92594a2dc7858709de0c4
+be16bbcf9fd07fe8243f58c8eb1cc348
+ghwls44.codns.com
+175.192.57.66
