@@ -100,15 +100,15 @@ http://gessuae.ae/wp-includes/images/smilies/oo.exe
 smtp.insanbatbi.com
 208.91.199.224
 
-http://www.gessuae.ae/wp-includes/fonts/yaa.exe	
+http://www.gessuae.ae/wp-includes/fonts/yaa.exe
 72a9c61451232641d2a044a1f4774fed933c58f6dc2884becdf0b4bd1de95ac2
 b5ae65280e82885ee0bdb296db73cf35ec529614
 fa94e348babc6c9d0feaf30f6808fa62
 smtp.kobitek-tr.com
 208.91.199.225
 
-http://gessuae.ae/wp-includes/fonts/jj.exe	
-5ea9be9da45d91d00023e0f51b7c4d2578699886bb523017431d9cb0ad393b40	
+http://gessuae.ae/wp-includes/fonts/jj.exe
+5ea9be9da45d91d00023e0f51b7c4d2578699886bb523017431d9cb0ad393b40
 24eef89544e5e4ddd09b2be2a23358e9a01efe0a	
 e8ea6bc7445469d4983661aa9191313d	
 smtp.microtexcomposite.com
@@ -121,4 +121,10 @@ ea1b6e340b38bcb407872211ea966297577be9993377816407b570bd347fcea4
 mail.thecencoa.com
 199.79.62.11
 
+http://eletelportoes.com.br/Chitauk.exe
+df406d9d0ad23dd64b4f08b34504d5bc38c998eb0adafac76bc90dc234355048
+da73c1e62f10abb2b74413f6dbf9eb637922c574
+3dafb8175e7f5a73b4408c6320af07eb
+mail.psp-ltd.co.uk
+94.136.40.60
 
