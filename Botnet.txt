@@ -25,3 +25,12 @@ db64d8a5c180695f2bc1c31198db0a74c9025ed6
 attack.s2lol.com
 103.127.196.201
 
+http://x2vn.com/attack/svchosts.exe
+9a619d8136827242ba044cc5a68fcf1889ec0ad7492a77e8d5ada7d241b828a2
+736b4a30592d331df358df03d620755124196fcf
+e8f2d24339a36e86affa75f3614e1f4a
+www.x2vn.com
+s2lol.com
+103.127.196.201
+103.127.196.151
+http://s2lol.com/update/botnet/active.php
