@@ -9,3 +9,12 @@ ac7616e1d6e5728a6d57ae59e97f1470ffa9fd91
 attack.s2lol.com
 103.127.196.201
 http://attack.s2lol.com/svchost.php
+
+
+http://attack.s2lol.com/free/svchosts.exe
+81beeac71f616cab77da9645a2c4f45c55b17ad5892d80052fbe0a14b53f61db
+91df3cf9962f3f6eeac8c988b1f4cd1492f860da
+5deccd54226701331200fcba5b7eb507
+test.volammienphi.net
+103.127.196.197
+108.61.246.20
