@@ -1,0 +1,11 @@
+#
+#**DO NOT RUN SAMPLES ON YOUR HOST COMPUTER! USE A VIRTUAL MACHINE**
+#
+
+http://attack.s2lol.com/svchost.exe
+98a9f94115cde689a0a588d5026d9ea7a15da17ff5ebbef101e0aa0a9c1fab74
+ac7616e1d6e5728a6d57ae59e97f1470ffa9fd91
+619237673ab863fbaef40892c84bc109
+attack.s2lol.com
+103.127.196.201
+http://attack.s2lol.com/svchost.php

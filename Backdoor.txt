@@ -2,7 +2,6 @@
 #**DO NOT RUN SAMPLES ON YOUR HOST COMPUTER! USE A VIRTUAL MACHINE**
 #
 
-
 #Backdoor.Win32.Pushdo.s
 http://escapadaasturias.com/wp-admin/user/swert.exe
 cf9360725d18f80bb8a99a338fdffe0ea2ebc1d9ef750af7fd0c52c5e8f6fc99
