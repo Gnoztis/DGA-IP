@@ -4,3 +4,4 @@ bot.whatismyipaddress.com
 66.171.248.178
 teemy.no-ip.org
 kd5.no-ip.org
+api.wipmania.com
