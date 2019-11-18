@@ -1401,3 +1401,21 @@
 
 #changeip.com
 204.16.169.2
+
+#collector.sinkhole.it
+204.16.169.2
+
+#sinkhole doombringer
+143.215.215.205
+
+#sinkhole fbizeus
+142.0.36.234
+54.83.43.69
+
+#sinkhole honeybot
+208.100.26.234
+208.100.26.240
+208.100.26.242
+208.100.26.251
+
+#sinkhole oceanlotus
