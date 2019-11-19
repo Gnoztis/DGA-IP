@@ -202,3 +202,14 @@ http://lavinch.firewall-gateway.de/lavin/vbc.exe
 108bb0dc40015d2191fe54425c416c8a
 mail.plasticsealtag.in
 192.185.137.49
+
+
+#Predator Stealer
+https://raw.githubusercontent.com/toneyshelby/77yduyu/master/Masksim.exe
+22236b86255d2bdf4066a7438884ec90b80f4f908ca8115e0a877bfa7b9b33f8
+eaece61507a1c57f978570587e014435d309caeb
+a9c5e302bac962eaf5d19e2960a960ac
+basketr.site
+92.63.197.238
+http://basketr.site/api/check.get
+http://basketr.site/api/gate.get?p1=2&p2=5&p3=0&p4=2&p5=0&p6=0&p7=0&p8=0&p9=0&p10=9ymK80wZu0Evdw/cwCoN7Gifyz1yyYEvxyER
