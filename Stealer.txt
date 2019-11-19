@@ -193,3 +193,12 @@ DNS requests
 managemyshoes.tools
 83.166.243.77
 http://managemyshoes.tools/index.php
+
+
+
+http://lavinch.firewall-gateway.de/lavin/vbc.exe
+0191f5c369eaad1a0810282278b7de7118ad502eb7b73c1355caf885ba94960f
+6323a436b0777291d48303194af1d044bde76ec0
+108bb0dc40015d2191fe54425c416c8a
+mail.plasticsealtag.in
+192.185.137.49
