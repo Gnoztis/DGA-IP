@@ -5,3 +5,5 @@ bot.whatismyipaddress.com
 teemy.no-ip.org
 kd5.no-ip.org
 api.wipmania.com
+ip-api.com
+208.95.112.1
