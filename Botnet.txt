@@ -200,3 +200,25 @@ http://217.149.241.121:8080/report/taskbar/add/
 http://134.213.221.29:7080/raster/raster/
 http://217.149.241.121:8080/vermont/guids/add/
 
+#Emotet
+http://anjoue.jp/academy/B/
+c3d762e85a4cc2ae58410e8af1e381e4b75427856e29d9f6d55cee44a1e348a1
+anjoue.jp
+149.202.197.94
+59.106.19.91
+139.162.75.91
+37.187.2.199
+90.77.228.193
+165.227.156.155
+67.225.179.64
+87.106.139.101
+191.92.209.110
+83.136.245.190
+http://anjoue.jp/academy/B/
+http://149.202.197.94:8080/bml/
+http://139.162.75.91:8080/iplk/symbols/
+http://37.187.2.199:443/scripts/forced/add/
+http://87.106.139.101:8080/codec/chunk/
+http://165.227.156.155:443/badge/
+http://67.225.179.64:8080/health/guids/add/merge/
+http://83.136.245.190:8080/rtm/badge/add/merge/
