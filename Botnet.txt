@@ -381,3 +381,12 @@ http://107.170.27.84:443/jit/psec/add/merge/
 http://154.120.227.206:8080/scripts/acquire/add/merge/
 http://80.85.87.122:8080/enabled/
 http://203.25.159.3:8080/report/taskbar/add/merge/
+
+#Emotet
+546be15d18d826fcf23d43c965b44c5322314b9d8067f876644668425ecc0d64
+714fd425a3cdeccccc18631c9b994c677ddf16ab
+2e08b04bb2fd18efb2e33a7d542beaaf
+172.104.233.225
+70.32.78.99
+http://172.104.233.225:8080/sym/mult/img/
+http://70.32.78.99:8080/mult/
