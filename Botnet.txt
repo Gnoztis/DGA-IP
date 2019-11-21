@@ -422,3 +422,8 @@ c793dec5a69e39238715d02245ca3490021c399c926f2d9191c2aa74bc18fd75
 http://198.58.120.26:8080/loadan/mult/img/merge/
 http://209.97.168.52:8080/forced/pnp/
 
+#Loki
+65bcc7f82e35bcc6c4b297ec7eae49391975a6f613dbfbdb088970f389bae373
+findmypractice.org
+162.144.197.138
+http://findmypractice.org/udm1/five/fre.php
