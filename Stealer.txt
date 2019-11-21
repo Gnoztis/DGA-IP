@@ -311,3 +311,11 @@ http://www.teorija.rs/storage/app/todd.exe
 f832b862d9f25b28e4282e2a06f6eaab
 smtp.sclooke.com
 208.91.199.225
+
+#Spy.HawkEye
+http://flood-protection.org/web/tZQJMAToVe8zLr3.exe
+60c66f578e2ff60057874ed98ae2977869469189d6c9d48d380b6c2bf33fc91f
+41d1194e68ae9a769d80af07931a511df43eebaf
+d2ba4e44c401c39583dce3b73f908b48
+server1.monovm.com
+46.21.144.100
