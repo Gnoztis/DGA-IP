@@ -333,3 +333,12 @@ cfc6be807622eee92d19f4c79fbea4b8df263211c719ed828dfb0e28e5a13ae0
 35757bcb4ea329bb4091f13c08890b5d
 smtp.zeyiti-sa.com
 208.91.199.225
+
+#Posible AgentTesla 
+http://gray-yame-8073.holy.jp/nice/BBNN_Protected.exe
+a8a16a415d6a04fd5db1ea3c4035577d0144e5bf635952d5d4bf436d2864abaa
+d66b239db3960add39a91d68cd28d66dcda322c0
+3ab9f93e21c5ca13294f322938e2d2ad
+c6999b9f79932c3b4f1c461a69d9dc8dc301d6a155abc33efe1b6e9e4a038391
+mail.orbitcargo.com.pk
+192.154.254.69
