@@ -400,3 +400,14 @@ http://idealnewhomes.com/seite_3/p3jk6ul0y-aad1w-57768077/
 222.239.249.166
 http://222.239.249.166:443/report/window/add/
 http://222.239.249.166:443/dma/enabled/
+
+
+#Emotet
+https://sarl-diouane.com/wp-content/4Ah0NDbi/
+0909d24206e44b2480c9890aca332c9f94c0c22531af8360a69e9e07a247a9a1
+6665f1b17500501a7a686bf7a9eb6121f04c6d5f
+f074ed36c6d53622dd276534d0fb3802
+198.58.120.26
+209.97.168.52
+http://198.58.120.26:8080/child/
+http://209.97.168.52:8080/taskbar/
