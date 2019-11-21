@@ -436,3 +436,15 @@ e379c7e2519649cd1e504a9c0773b794
 kitchenraja.in
 104.168.65.2
 http://kitchenraja.in/benguy/32/index.php
+
+#Emotet
+http://www.luotc.cn/wp-admin/nPpaj/
+8c60b4a1baa323a0d0d3b74124333c82a3491ec6558234cc92f91ba1bbf47d74
+d8b91b0b3bf5464bb70c24dd8536358f6ac08edd
+3620adde526d11b28348b9e9a1c06fce
+198.58.120.26
+209.97.168.52
+37.187.2.199
+http://198.58.120.26:8080/img/window/add/merge/
+http://209.97.168.52:8080/nsip/symbols/add/
+http://37.187.2.199:443/health/
