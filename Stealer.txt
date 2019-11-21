@@ -305,3 +305,9 @@ f5c6c27712a5569b304ff01ca5b1c7c8
 smtp.sclooke.com
 208.91.198.143
 
+http://www.teorija.rs/storage/app/todd.exe
+5cdfb7506671b54ba2aa06ca79ed345b0f7454dc8376673c6928cbaa09d98243
+893a0728f6ebfb22fffc568a7f1480221234c464
+f832b862d9f25b28e4282e2a06f6eaab
+smtp.sclooke.com
+208.91.199.225
