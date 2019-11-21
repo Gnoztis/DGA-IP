@@ -7,3 +7,4 @@ bot.whatismyipaddress.com
 216.239.38.21
 66.171.248.178
 208.95.112.1
+iplogger.ru
