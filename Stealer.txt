@@ -319,3 +319,10 @@ http://flood-protection.org/web/tZQJMAToVe8zLr3.exe
 d2ba4e44c401c39583dce3b73f908b48
 server1.monovm.com
 46.21.144.100
+
+http://www.teorija.rs/storage/app/fr.exe
+cfc6be807622eee92d19f4c79fbea4b8df263211c719ed828dfb0e28e5a13ae0
+071e81a9112d0abb467de15110326aad28eef7fb
+35757bcb4ea329bb4091f13c08890b5d
+smtp.zeyiti-sa.com
+208.91.199.223
