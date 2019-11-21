@@ -411,3 +411,14 @@ f074ed36c6d53622dd276534d0fb3802
 209.97.168.52
 http://198.58.120.26:8080/child/
 http://209.97.168.52:8080/taskbar/
+
+#Emotet
+https://www.reneesresales.com/parseopmlo/kc7nl8/
+c793dec5a69e39238715d02245ca3490021c399c926f2d9191c2aa74bc18fd75
+61bfba692f5705ac48dddc9834453391d34edf62
+99f69889b1df70ad92c24da0942b43ce
+209.97.168.52
+198.58.120.26
+http://198.58.120.26:8080/loadan/mult/img/merge/
+http://209.97.168.52:8080/forced/pnp/
+
