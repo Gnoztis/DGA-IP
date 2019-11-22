@@ -24,3 +24,6 @@ ip-adress.com
 checkip.dyndns.org
 ipinfo.io
 ipinfo.org
+checkip.amazonaws.com
+www.l2.io
+api.ipify.org
