@@ -1097,7 +1097,7 @@
 #collector.sinkhole.it
 #sinkhole doombringer
 143.215.215.205
-#sinkhole fbizeus
+#sinkhole FBI Zeus P2P
 142.0.36.234
 54.83.43.69
 #sinkhole honeybot
