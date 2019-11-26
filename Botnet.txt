@@ -1237,3 +1237,12 @@ https://www.krishisamachar.com/wp-content/bpd4e/
 583b2cc2ae1b9f521557193063f64d00448ada6d
 5ec21662f55cc7d0c7f0132f590c5396
 206.81.10.215
+
+#Emotet
+http://sidias.com.br/my_picked_ads/4MJayy/
+17c3ea2555a8043ed2cee6d21434860c2d739079bb8aca9f5f4daaa6712350aa
+d67cf6b3e8362778f6496b9c8a9e293d9ff12d1d
+8bd0da983a0a555b60ef676892668629
+206.81.10.215
+http://206.81.10.215:8080/taskbar/raster/add/	
+
