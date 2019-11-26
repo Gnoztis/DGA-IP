@@ -1299,3 +1299,20 @@ www.bastem.xyz
 206.189.112.148
 http://206.81.10.215:8080/symbols/sym/add/
 http://206.189.112.148:8080/taskbar/forced/
+
+
+#Emotet
+https://study-solution.fr/wp-includes/1v0h06xfwpu5bveixrhdbaizqlai/
+784476a95a063d7fe4fa778358bf492d7c9d4374f400012e26fe4cc176d8c60d
+dc5bd55a5bd57edb60a4f5154174119b333d1752
+2cf92a2d5a776b221b01fdb0f9bbce71
+Dropped executable file
+177d257b31d1db6c4295fd1336e2a29208ad7e3220a52f261a77e9ea598d07fc
+www.bastem.xyz
+cnmesh.com
+185.71.216.114
+206.81.10.215
+47.103.7.52
+206.189.112.148
+http://206.81.10.215:8080/json/sym/add/merge/
+http://206.189.112.148:8080/arizona/attrib/add/merge/
