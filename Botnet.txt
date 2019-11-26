@@ -1230,3 +1230,10 @@ http://206.189.112.148:8080/usbccid/
 http://50.116.86.205:8080/arizona/taskbar/add/
 http://31.12.67.62:7080/health/
 http://115.78.95.230:443/xian/psec/add/merge/
+
+#Emotet
+https://www.krishisamachar.com/wp-content/bpd4e/
+9e520711b0361aa53855046aabe309dcfa82923001896ed8cb39459adc870f72
+583b2cc2ae1b9f521557193063f64d00448ada6d
+5ec21662f55cc7d0c7f0132f590c5396
+206.81.10.215
