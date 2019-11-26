@@ -1196,3 +1196,11 @@ https://pitchseed.com/tmp/dtnnbtndj1-uhmy8s5e-29082/
 e3ca383e2090d26d91abebc87427a9ff
 192.161.190.171
 http://192.161.190.171:8080/psec/raster/add/
+
+
+#Emotet
+6bb3741362f9f26e1eca1c87e5c14ee5b7d7d6e71e042db6cdb7691273fffe45
+f3568f6e8f70d96da1df7e9c98a74e0285d69d7e
+34bdd27b6322f255245371daac49aa04
+192.161.190.171
+http://192.161.190.171:8080/forced/window/
