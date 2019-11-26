@@ -1244,5 +1244,17 @@ http://sidias.com.br/my_picked_ads/4MJayy/
 d67cf6b3e8362778f6496b9c8a9e293d9ff12d1d
 8bd0da983a0a555b60ef676892668629
 206.81.10.215
-http://206.81.10.215:8080/taskbar/raster/add/	
+http://206.81.10.215:8080/taskbar/raster/add/
 
+#Emotet
+https://www.orixinsurance.com.cn/en/ud5kvyd0t5ggdue53ubgd5bcwh6qs0y3/
+784476a95a063d7fe4fa778358bf492d7c9d4374f400012e26fe4cc176d8c60d
+dc5bd55a5bd57edb60a4f5154174119b333d1752
+2cf92a2d5a776b221b01fdb0f9bbce71
+17c3ea2555a8043ed2cee6d21434860c2d739079bb8aca9f5f4daaa6712350aa
+www.bastem.xyz
+cnmesh.com
+185.71.216.114
+206.81.10.215
+47.103.7.52
+http://206.81.10.215:8080/devices/enabled/add/merge/
