@@ -474,3 +474,14 @@ cnmesh.com
 206.189.112.148
 http://206.81.10.215:8080/json/sym/add/merge/
 http://206.189.112.148:8080/arizona/attrib/add/merge/
+
+
+#Emotet
+https://camille-daher.com/wp-content/4r/
+f8c519a81a1b51ff0b6aae12cc65f9c1551b284476637e0e05c90d358a6eb860
+4ee164445fc8fc94aee6979e7678c3a61820f933
+e112cc31b61fd3ce12a8d4b5abe1928c
+51.68.220.244
+185.234.72.64
+http://185.234.72.64:443/teapot/enabled/add/merge/
+http://51.68.220.244:8080/entries/results/add/
