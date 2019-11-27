@@ -485,3 +485,11 @@ e112cc31b61fd3ce12a8d4b5abe1928c
 185.234.72.64
 http://185.234.72.64:443/teapot/enabled/add/merge/
 http://51.68.220.244:8080/entries/results/add/
+
+#Emotet
+https://travelfantasydmc.com/wp-content/pIl/
+3baadfb73c2df347af28f010ab37eb1935d44c0a93502efc4be7b7fd2a3e34f3
+15c23e1a3dd887e613f1273d3c642b6319735671
+e31b1386cf77499553dec7ed32f31670
+185.234.72.64
+http://185.234.72.64:443/vermont/
