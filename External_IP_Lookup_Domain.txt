@@ -25,3 +25,4 @@ checkip.amazonaws.com
 www.l2.io
 api.ipify.org
 myexternalip.com
+api.sypexgeo.net
