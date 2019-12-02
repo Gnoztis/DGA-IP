@@ -33,3 +33,5 @@ ipapi.co
 ipstack.com
 db-ip.com
 icanhazip.com
+ipv6.icanhazip.com
+ipv4.icanhazip.com
