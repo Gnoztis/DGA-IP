@@ -26,3 +26,9 @@ www.l2.io
 api.ipify.org
 myexternalip.com
 api.sypexgeo.net
+api.ipgeolocationapi.com
+ipdata.co
+ipgeolocation.com
+ipapi.co
+ipstack.com
+db-ip.com
