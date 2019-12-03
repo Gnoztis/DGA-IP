@@ -553,3 +553,14 @@ http://www.ergodontia.com/backup/rYkTRwX/
 http://77.211.249.124/5RiMzZ84UEav3tFg
 http://81.213.145.45:443/hbhywDvcVOXBFK
 http://41.218.118.66/JvOcW5nkH2uDC
+
+#Azorult 
+#Ref https://pastebin.com/DrVftnBR
+0ffc54e96699185317677f93adce64fd
+bb66b28578093bc26eb428cf29bdf703
+185.125.59.74
+2.56.215.211
+92.63.107.154
+mm5132645.xyz
+http://2.56.215.211/index.php
+http://mm5132645.xyz/index.php
