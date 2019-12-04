@@ -3023,3 +3023,13 @@ http://188.152.7.140/ckOL0k8XPUuIaT02
 73.167.135.180
 http://73.167.135.180/nlHHMPvosT
 http://72.29.55.174/MXQoaCO
+
+#Emotet
+http://karnatakatoursandtravels.com/cli/smtcs015/
+24419ac46cd5f1892aa79cb15464d793baa751d32f4c96e16d16def6f4a61adc
+775952961080ed42d7c4bf04fe78a9f636dbcb4c
+d8256b178e5191046d27f1c755819856
+72.29.55.174
+73.167.135.180
+http://73.167.135.180/xbmv3oS6FRboeKNg
+http://72.29.55.174/n7YAMNS8oP3
