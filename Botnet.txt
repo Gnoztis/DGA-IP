@@ -2969,3 +2969,14 @@ http://46.101.7.140:8080/OtHU0j5yR
 http://46.101.7.140:8080/cookies/
 http://46.101.7.140:8080/AeNZBAdQAM
 http://46.101.7.140:8080/raster/vermont/
+
+
+#Emotet
+http://klbay.net/wp-admin/H/
+b1f281fcbfdab8dd1a36705055b12e5fbb4e3b2c912048a668f94fb6e35a260d
+0091b1c9017cfbd7ebd6feb18e3d34058b55b602
+90e96e20085164729bf73273f8ad2d5f
+108.191.2.72
+91.187.80.246
+http://91.187.80.246/y3ZF7gBF
+http://108.191.2.72/kRHo9ve51Uxvt
