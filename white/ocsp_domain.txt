@@ -1,0 +1,17 @@
+ocsp.digicert.com
+ocsp.comodoca.com
+ocsp.sectigo.com
+ocsp.trust-provider.com
+ocsp.usertrust.com
+ocsp.comodoca4.com
+ocsp.msocsp.com
+crl.identrust.com
+apps.identrust.com
+crl.microsoft.com
+o.ss2.us
+crl.comodoca.com
+ocsp.pki.goog
+crl3.digicert.com
+crl4.digicert.com
+cdp.thawte.com
+crl.comodoca4.com
