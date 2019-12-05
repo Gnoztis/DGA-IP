@@ -15,3 +15,4 @@ crl3.digicert.com
 crl4.digicert.com
 cdp.thawte.com
 crl.comodoca4.com
+ocsp.trustwave.com
