@@ -13,6 +13,16 @@ crl.comodoca.com
 ocsp.pki.goog
 crl3.digicert.com
 crl4.digicert.com
+cs9.wac.phicdn.net
 cdp.thawte.com
 crl.comodoca4.com
 ocsp.trustwave.com
+certificates.intel.com
+certificates.intel.com.edgesuite.net
+crl.quovadisglobal.com
+crl.quovadisglobal.com.s3-website.eu-central-1.amazonaws.com
+crl.verisign.com
+crl-symcprod.digicert.com
+ocsp.int-x3.letsencrypt.org
+ocsp.int-x3.letsencrypt.org.edgesuite.net
+status.geotrust.com

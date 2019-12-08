@@ -98,3 +98,5 @@ cmg-fusm.pandasecurity.com
 proinfo.pandasoftware.com
 eventtrack.pandasecurity.com
 cmg-kw.pandasecurity.com
+ncc.avast.com
+ncc.avast.com.edgesuite.net

@@ -5,3 +5,13 @@ cdn.ptvcdn.net
 choices.trustarc.com
 bella-siberia.ru
 triplelift-match-dotomi.com
+cdn.sendpulse.com
+amd-athena-raw.s3.amazonaws.com
+dlcdnets.asus.com
+wideip-dlcdnets.isoi.asia
+dl.acronis.com
+acronis-dl.akamaized.net
+fpdownload2.macromedia.com
+cdn.ctnsnet.com
+abcqueueamax.asus.com
+cs956197766.wpc.psicdn.net
