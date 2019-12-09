@@ -111,3 +111,5 @@ uib.ff.avast.com
 pico.eset.com
 autorenew.drweb.com
 i5.c.eset.com
+uupdate.avast.com
+v7event.stats.avast.com
