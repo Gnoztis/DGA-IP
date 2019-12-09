@@ -24,3 +24,4 @@ www.artfut.com
 primstat.gks.ru
 img.docs.pravo.ru
 lekardeti.ru
+dl.maxthon.cn
