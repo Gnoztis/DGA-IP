@@ -26,3 +26,5 @@ img.docs.pravo.ru
 lekardeti.ru
 dl.maxthon.cn
 spzv.ru
+cloudcontact.ru
+p1.ntvk1.ru
