@@ -102,3 +102,6 @@ ncc.avast.com
 ncc.avast.com.edgesuite.net
 update.eset.com
 updf5.wip.eset.com
+avast.com
+f3355109.vpsnitro.u.avast.com
+m4349473.iavs9x.u.avast.com
