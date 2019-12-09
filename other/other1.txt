@@ -53,3 +53,4 @@ webits.1c.ru
 static.baza.farpost.ru
 static.vl.ru
 www.farpost.ru
+target-cdn.peel-prod.com
