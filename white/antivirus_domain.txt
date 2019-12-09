@@ -105,3 +105,6 @@ updf5.wip.eset.com
 avast.com
 f3355109.vpsnitro.u.avast.com
 m4349473.iavs9x.u.avast.com
+lvl3cdn-update.drweb.com
+update.geo.drweb.com
+uib.ff.avast.com
