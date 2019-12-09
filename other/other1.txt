@@ -54,3 +54,6 @@ static.baza.farpost.ru
 static.vl.ru
 www.farpost.ru
 target-cdn.peel-prod.com
+javadl-esd-secure.oracle.com
+s2.symcb.com
+sv.symcd.com
