@@ -36,3 +36,4 @@ icanhazip.com
 ipv6.icanhazip.com
 ipv4.icanhazip.com
 work.a-poster.info
+ip-info.ff.avast.com
