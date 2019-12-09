@@ -25,3 +25,4 @@ primstat.gks.ru
 img.docs.pravo.ru
 lekardeti.ru
 dl.maxthon.cn
+spzv.ru
