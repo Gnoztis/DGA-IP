@@ -59,3 +59,4 @@ s2.symcb.com
 sv.symcd.com
 traffic6.edromaps.2gis.com
 catalog.api.2gis.ru
+lk.zakupki.gov.ru
