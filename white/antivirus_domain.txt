@@ -108,3 +108,4 @@ m4349473.iavs9x.u.avast.com
 lvl3cdn-update.drweb.com
 update.geo.drweb.com
 uib.ff.avast.com
+pico.eset.com
