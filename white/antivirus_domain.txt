@@ -100,3 +100,5 @@ eventtrack.pandasecurity.com
 cmg-kw.pandasecurity.com
 ncc.avast.com
 ncc.avast.com.edgesuite.net
+update.eset.com
+updf5.wip.eset.com
