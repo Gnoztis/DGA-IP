@@ -65,4 +65,9 @@ dom.gosuslugi.ru
 discontmebel-tyumen.ru
 raobe.ru
 www.raobe.ru
+s3.amazonaws.com
 s3.us-east-2.amazonaws.com
+s3-us-west-1.amazonaws.com
+s3-us-west-2.amazonaws.com
+s3-eu-west-1.amazonaws.com
+s3.cn-north-1.amazonaws.com.cn
