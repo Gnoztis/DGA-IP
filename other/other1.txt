@@ -43,3 +43,4 @@ downloads.1c.ru
 news.webits.1c.ru
 s0.bss.2gis.com
 browser-notifications.opera.com
+www.vl.ru
