@@ -110,3 +110,4 @@ update.geo.drweb.com
 uib.ff.avast.com
 pico.eset.com
 autorenew.drweb.com
+i5.c.eset.com
