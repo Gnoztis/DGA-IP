@@ -49,3 +49,4 @@ docs.fss.ru
 engineeringsystems.ru
 cdn.jsdelivr.net
 api.weather.com
+webits.1c.ru
