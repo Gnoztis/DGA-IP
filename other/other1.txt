@@ -48,3 +48,4 @@ camera.rt.ru
 docs.fss.ru
 engineeringsystems.ru
 cdn.jsdelivr.net
+api.weather.com
