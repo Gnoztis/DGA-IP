@@ -50,3 +50,6 @@ engineeringsystems.ru
 cdn.jsdelivr.net
 api.weather.com
 webits.1c.ru
+static.baza.farpost.ru
+static.vl.ru
+www.farpost.ru
