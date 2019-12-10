@@ -123,3 +123,6 @@ yaroslavl.hh.ru
 vladivostok.hh.ru
 i.hh.ru
 hhcdn.ru
+af.opera.com
+merchandise.opera-api.com
+sitecheck.opera.com
