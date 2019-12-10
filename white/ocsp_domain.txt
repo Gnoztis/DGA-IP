@@ -37,3 +37,5 @@ crt.comodoca.com
 cdn.digicertcdn.com
 cacerts.digicert.com
 ocsp.verisign.com
+certificates.godaddy.com
+crl.godaddy.com
