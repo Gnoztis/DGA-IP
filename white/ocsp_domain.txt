@@ -32,3 +32,5 @@ crt.sectigo.com
 ocsp.rootca1.amazontrust.com
 ocsp.sca1b.amazontrust.com
 crt.comodoca.com
+cdn.digicertcdn.com
+cacerts.digicert.com
