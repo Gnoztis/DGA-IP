@@ -121,3 +121,5 @@ sochi.hh.ru
 ufa.hh.ru
 yaroslavl.hh.ru
 vladivostok.hh.ru
+i.hh.ru
+hhcdn.ru
