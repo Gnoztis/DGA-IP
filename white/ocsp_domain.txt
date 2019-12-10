@@ -40,3 +40,4 @@ ocsp.verisign.com
 certificates.godaddy.com
 crl.godaddy.com
 certs.godaddy.com
+ocsp.rootg2.amazontrust.com
