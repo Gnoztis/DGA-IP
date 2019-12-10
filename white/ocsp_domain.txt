@@ -39,3 +39,4 @@ cacerts.digicert.com
 ocsp.verisign.com
 certificates.godaddy.com
 crl.godaddy.com
+certs.godaddy.com
