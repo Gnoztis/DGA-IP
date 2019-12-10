@@ -96,3 +96,4 @@ habr.com
 dr.habracdn.net
 habrastorage.org
 hsto.org
+orion-dez.ru
