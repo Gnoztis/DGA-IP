@@ -91,3 +91,8 @@ acroipm.adobe.com
 certify.alexametrics.com
 proglazki.ru
 safe-salon.ru
+cdnjs.cloudflare.com
+habr.com
+dr.habracdn.net
+habrastorage.org
+hsto.org
