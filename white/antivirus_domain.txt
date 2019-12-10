@@ -113,3 +113,4 @@ autorenew.drweb.com
 i5.c.eset.com
 uupdate.avast.com
 v7event.stats.avast.com
+s03.upd.kaspersky.com

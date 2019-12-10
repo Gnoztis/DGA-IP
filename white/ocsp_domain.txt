@@ -9,6 +9,7 @@ crl.identrust.com
 apps.identrust.com
 crl.microsoft.com
 o.ss2.us
+s.ss2.us
 crl.comodoca.com
 ocsp.pki.goog
 crl3.digicert.com
@@ -26,3 +27,7 @@ crl-symcprod.digicert.com
 ocsp.int-x3.letsencrypt.org
 ocsp.int-x3.letsencrypt.org.edgesuite.net
 status.geotrust.com
+cacerts.geotrust.com
+crt.sectigo.com
+ocsp.rootca1.amazontrust.com
+ocsp.sca1b.amazontrust.com
