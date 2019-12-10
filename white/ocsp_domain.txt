@@ -41,3 +41,4 @@ certificates.godaddy.com
 crl.godaddy.com
 certs.godaddy.com
 ocsp.rootg2.amazontrust.com
+crl.certum.pl
