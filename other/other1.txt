@@ -72,3 +72,4 @@ s3-us-west-2.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3.cn-north-1.amazonaws.com.cn
 h20397.www2.hp.com
+kartologia.ru
