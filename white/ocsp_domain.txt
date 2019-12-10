@@ -36,3 +36,4 @@ ocsp.sca1b.amazontrust.com
 crt.comodoca.com
 cdn.digicertcdn.com
 cacerts.digicert.com
+ocsp.verisign.com

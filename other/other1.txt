@@ -83,3 +83,5 @@ cdn.pljs.ru
 pol4.ru
 cms.quantserve.com
 chekhovsc.ru
+proscootera.ru
+sf.symcd.com
