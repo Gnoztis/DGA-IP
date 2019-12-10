@@ -99,3 +99,4 @@ hsto.org
 orion-dez.ru
 pesochnizza.ru
 logx.optimizely.com
+telemetry.acronis.com
