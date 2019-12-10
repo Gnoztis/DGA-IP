@@ -31,3 +31,4 @@ cacerts.geotrust.com
 crt.sectigo.com
 ocsp.rootca1.amazontrust.com
 ocsp.sca1b.amazontrust.com
+crt.comodoca.com
