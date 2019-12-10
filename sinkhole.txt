@@ -1,4 +1,4 @@
-# Microsoft sinkhole
+#Microsoftsinkhole
 199.2.137.0
 199.2.137.1
 199.2.137.2
@@ -373,7 +373,7 @@
 64.95.103.188
 64.95.103.189
 64.95.103.190
-#Arbor 
+#Arbor
 23.253.126.58
 104.239.157.210
 104.239.159.210
@@ -653,7 +653,7 @@
 38.229.70.125
 136.161.101.53
 157.122.62.194
-#sink cryptolocker
+#sinkcryptolocker
 212.71.250.4
 #dnssinkhole.org
 107.167.182.235
@@ -694,11 +694,11 @@
 143.215.15.30
 #Gladtech
 74.200.48.169
-#Hyas sinkhole
+#Hyassinkhole
 192.169.69.25
 #infosecjp
 58.158.177.102
-#Kaspersky sinkhole
+#Kasperskysinkhole
 95.211.172.143
 128.199.34.140
 93.114.41.39
@@ -962,7 +962,7 @@
 204.95.99.254
 204.95.99.255
 104.42.225.122
-#NoIp sinkhole
+#NoIpsinkhole
 94.73.26.136
 94.73.32.191
 94.73.35.110
@@ -996,7 +996,7 @@
 128.199.108.0
 198.199.105.129
 67.205.153.100
-#shadow server sinkhole
+#shadowserversinkhole
 178.162.203.202
 178.162.203.211
 178.162.203.226
@@ -1025,39 +1025,39 @@
 87.106.26.9
 87.106.34.1
 87.106.86.28
-#sinkhole sidnlabs
+#sinkholesidnlabs
 176.58.104.168
-#sobaken sinkhole
+#sobakensinkhole
 94.158.34.2
 206.54.179.160
-#sinkhole sofacy
+#sinkholesofacy
 130.211.96.168
 54.147.199.149
 157.56.161.162
 40.112.210.240
 52.45.178.122
 52.28.203.25
-#sinkhole spamandabuse
+#sinkholespamandabuse
 185.28.100.99
-#sugarbucket sinkhole
+#sugarbucketsinkhole
 95.211.230.75
 46.165.240.181
-#sinkhole switch
+#sinkholeswitch
 86.119.38.239
-#sinkhole tech
+#sinkholetech
 95.211.174.92
 185.17.185.74
-#sinkhole tsway
+#sinkholetsway
 54.36.134.247
 91.134.203.113
-#sinkhole turla
+#sinkholeturla
 203.117.122.51
 178.219.68.239
 104.223.89.145
 212.21.40.220
-#sinkhole vicheck
+#sinkholevicheck
 35.182.62.128
-#sinkhole virustracker
+#sinkholevirustracker
 206.189.61.126
 46.101.183.146
 46.101.184.102
@@ -1068,7 +1068,7 @@
 69.195.129.70
 69.195.129.72
 69.195.129.74
-#sinkhole vittalia
+#sinkholevittalia
 38.134.105.124
 38.134.106.117
 38.134.106.119
@@ -1086,7 +1086,7 @@
 176.31.62.78
 176.31.62.76
 94.23.175.2
-#sinkhole blacklab
+#sinkholeblacklab
 67.215.255.139
 81.166.122.234
 106.187.96.49
@@ -1095,19 +1095,19 @@
 #changeip.com
 204.16.169.2
 #collector.sinkhole.it
-#sinkhole doombringer
+#sinkholedoombringer
 143.215.215.205
-#sinkhole FBI Zeus P2P
+#sinkholeFBIZeusP2P
 142.0.36.234
 54.83.43.69
-#sinkhole honeybot
+#sinkholehoneybot
 208.100.26.234
 208.100.26.240
 208.100.26.242
 208.100.26.251
-#sinkhole oceanlotus
+#sinkholeoceanlotus
 85.206.175.252
-#sinkhole secureworks
+#sinkholesecureworks
 45.56.77.175
 #sinkhole_xaayda
 146.148.42.217
@@ -1126,7 +1126,7 @@
 85.159.211.21
 96.126.112.224
 96.126.116.157
-#DrWeb 
+#DrWeb
 91.233.244.106
 #sinkhole_supportintel
 173.11.85.180
@@ -1212,3 +1212,19 @@
 160.16.212.198
 45.77.226.209
 78.108.82.229
+#################################
+#unknown II
+77.74.178.24
+95.211.230.75
+118.70.2.106
+35.195.48.106
+35.187.36.248
+93.117.137.230
+103.193.4.182
+5.135.254.110
+103.35.57.157
+199.2.137.202
+52.220.224.37
+103.193.4.160
+58.158.177.102
+93.159.228.22
