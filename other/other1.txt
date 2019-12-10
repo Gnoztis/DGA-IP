@@ -85,3 +85,5 @@ cms.quantserve.com
 chekhovsc.ru
 proscootera.ru
 sf.symcd.com
+pixel.quantserve.com
+secure.quantserve.com
