@@ -126,3 +126,4 @@ hhcdn.ru
 af.opera.com
 merchandise.opera-api.com
 sitecheck.opera.com
+n-cdn.areyouahuman.com
