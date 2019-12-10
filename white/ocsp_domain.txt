@@ -8,6 +8,8 @@ ocsp.msocsp.com
 crl.identrust.com
 apps.identrust.com
 crl.microsoft.com
+crl.www.ms.akadns.net
+a1363.dscg.akamai.net
 o.ss2.us
 s.ss2.us
 crl.comodoca.com
