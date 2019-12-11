@@ -130,3 +130,4 @@ n-cdn.areyouahuman.com
 pingvin-vl.ru
 epicgames.com
 www.epicgames.com
+api.pizza-prosto.ru
