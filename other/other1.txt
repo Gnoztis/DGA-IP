@@ -152,3 +152,7 @@ update.medsoftpro.ru
 leadback.ru
 primavera.com.ru
 www.ytro-rossii.ru
+amur.eias.ru
+eias.ru
+portal.eias.ru
+ww.eias.ru
