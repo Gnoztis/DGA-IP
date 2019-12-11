@@ -26,8 +26,6 @@ crl.quovadisglobal.com
 crl.quovadisglobal.com.s3-website.eu-central-1.amazonaws.com
 crl.verisign.com
 crl-symcprod.digicert.com
-ocsp.int-x3.letsencrypt.org
-ocsp.int-x3.letsencrypt.org.edgesuite.net
 status.geotrust.com
 cacerts.geotrust.com
 crt.sectigo.com
@@ -42,3 +40,6 @@ crl.godaddy.com
 certs.godaddy.com
 ocsp.rootg2.amazontrust.com
 crl.certum.pl
+ocsp.int-x3.letsencrypt.org
+ocsp.int-x3.letsencrypt.org.edgesuite.net
+a771.dscq.akamai.net
