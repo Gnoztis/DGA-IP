@@ -43,3 +43,4 @@ crl.certum.pl
 ocsp.int-x3.letsencrypt.org
 ocsp.int-x3.letsencrypt.org.edgesuite.net
 a771.dscq.akamai.net
+ocsp.dcocsp.cn
