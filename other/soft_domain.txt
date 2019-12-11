@@ -1,0 +1,4 @@
+deb.opera.com
+repo.skype.com
+mirror.yandex.ru
+security.debian.org
