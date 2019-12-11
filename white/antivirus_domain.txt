@@ -116,3 +116,4 @@ v7event.stats.avast.com
 s03.upd.kaspersky.com
 c.eset.com
 edf.eset.com
+shepherd.ff.avast.com
