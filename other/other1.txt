@@ -156,3 +156,4 @@ amur.eias.ru
 eias.ru
 portal.eias.ru
 ww.eias.ru
+digital.gov.ru
