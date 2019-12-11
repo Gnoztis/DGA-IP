@@ -117,3 +117,6 @@ s03.upd.kaspersky.com
 c.eset.com
 edf.eset.com
 shepherd.ff.avast.com
+s-nuistatic.avcdn.net
+install.avcdn.net
+static3.avast.com
