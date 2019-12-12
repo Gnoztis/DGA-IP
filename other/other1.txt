@@ -195,3 +195,6 @@ w.today
 chistoteldv.ru
 o-m-c.ru
 garantyou.ru
+assets.strossle.com
+proxy.strossle.it
+widgets.sprinklecontent.com

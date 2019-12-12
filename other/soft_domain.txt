@@ -17,3 +17,4 @@ kinesis.us-west-2.amazonaws.com
 context.skyhookwireless.com
 d7l6d3yk4tkv4.cloudfront.net
 dcefh8tp1pusz.cloudfront.net
+sudf-api.hpcloud.hp.com
