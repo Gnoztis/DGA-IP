@@ -6,6 +6,7 @@ dl.acronis.com
 h20397.www2.hp.com
 sudf-resources.hpcloud.hp.com
 utyautoupdate.synology.com
+autoupdate.synology.com
 us.hpdaas.com
 eu.hpdaas.com
 downloads.hpdaas.com
