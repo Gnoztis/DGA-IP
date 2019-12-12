@@ -18,3 +18,6 @@ context.skyhookwireless.com
 d7l6d3yk4tkv4.cloudfront.net
 dcefh8tp1pusz.cloudfront.net
 sudf-api.hpcloud.hp.com
+us.archive.ubuntu.com
+security.ubuntu.comv
+www.getdeb.net
