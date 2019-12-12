@@ -120,3 +120,7 @@ shepherd.ff.avast.com
 s-nuistatic.avcdn.net
 install.avcdn.net
 static3.avast.com
+analytics.ff.avast.com
+ipm-provider.ff.avast.com
+su2.ff.avast.com
+ff.avast.com
