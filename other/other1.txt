@@ -252,3 +252,4 @@ static.3lift.com
 img.3lift.com
 na-dmpsync.3lift.com
 dmpsync.3lift.com
+adform.com
