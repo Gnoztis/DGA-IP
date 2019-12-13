@@ -221,3 +221,7 @@ bingoboom.ru
 onko.guru
 quantcast.mgr.consensu.org
 cdn.uxfeedback.ru
+script.hotjar.com
+static.hotjar.com
+vars.hotjar.com
+vc.hotjar.io
