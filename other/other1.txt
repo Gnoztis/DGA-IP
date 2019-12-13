@@ -323,3 +323,5 @@ u.alicdn.com
 wwc.alicdn.com
 a1.adform.net
 nalechenii.ru
+static.cloud.coveo.com
+scardio.ru
