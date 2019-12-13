@@ -22,3 +22,5 @@ us.archive.ubuntu.com
 security.ubuntu.comv
 www.getdeb.net
 developer.samsung.com
+odrs.gnome.org
+gnome.org
