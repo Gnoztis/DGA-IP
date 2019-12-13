@@ -21,3 +21,4 @@ sudf-api.hpcloud.hp.com
 us.archive.ubuntu.com
 security.ubuntu.comv
 www.getdeb.net
+developer.samsung.com
