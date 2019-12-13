@@ -253,3 +253,13 @@ img.3lift.com
 na-dmpsync.3lift.com
 dmpsync.3lift.com
 adform.com
+eu.diablo3.com
+www.sciencedirect.com
+www.tafp.org
+en.wikipedia.org
+www.imdb.com
+www.urbandictionary.com
+www.consultant.ru
+ru.wikipedia.org
+www.rosminzdrav.ru
+loveplanet.ru
