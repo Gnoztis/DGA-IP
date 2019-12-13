@@ -225,3 +225,4 @@ script.hotjar.com
 static.hotjar.com
 vars.hotjar.com
 vc.hotjar.io
+c1.adform.net
