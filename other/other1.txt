@@ -336,3 +336,4 @@ d.agkn.com
 kydesnicak.ru
 fashiontarget.ru
 segments.company-target.com
+static.calltouch.ru
