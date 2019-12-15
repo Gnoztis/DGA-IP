@@ -372,3 +372,10 @@ vt.myvisualiq.net
 www.viewbix.com
 go.picsart.com
 media.sqreemtech.com
+api2.branch.io
+cdn.branch.io
+docs.branch.io
+branch.io
+support.branch.io
+blog.branch.io
+events.mobilegrowth.org
