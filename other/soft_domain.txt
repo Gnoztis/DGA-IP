@@ -24,3 +24,12 @@ www.getdeb.net
 developer.samsung.com
 odrs.gnome.org
 gnome.org
+gfwsl.geforce.com
+telemetry.gfe.nvidia.com
+gfe.nvidia.com
+services.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+events.gfe.nvidia.com
+images.nvidiagrid.net
+rds-assets.nvidia.com
+assets.nvidiagrid.net
