@@ -360,3 +360,5 @@ mumotiki.ru
 logyx.com
 eus.rubiconproject.com
 ekoramax.ru
+assets.strossle.com
+widgets.sprinklecontent.com
