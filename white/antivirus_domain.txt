@@ -124,3 +124,4 @@ analytics.ff.avast.com
 ipm-provider.ff.avast.com
 su2.ff.avast.com
 ff.avast.com
+data-cdn.mbamupdates.com
