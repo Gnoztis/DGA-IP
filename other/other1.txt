@@ -383,3 +383,5 @@ static.trackivation.com
 i.ibb.co
 s.tradingview.com
 gaini.ru
+rs-i.ru
+www.rs-i.ru
