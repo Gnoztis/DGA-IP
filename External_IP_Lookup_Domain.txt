@@ -39,3 +39,4 @@ work.a-poster.info
 ip-info.ff.avast.com
 api.2ip.ua
 addr.cx
+ip.rvpn.ws
