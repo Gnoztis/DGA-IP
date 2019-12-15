@@ -33,3 +33,4 @@ events.gfe.nvidia.com
 images.nvidiagrid.net
 rds-assets.nvidia.com
 assets.nvidiagrid.net
+pkgautoupdate.synology.com
