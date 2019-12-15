@@ -379,3 +379,5 @@ branch.io
 support.branch.io
 blog.branch.io
 events.mobilegrowth.org
+static.trackivation.com
+i.ibb.co
