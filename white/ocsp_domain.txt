@@ -59,3 +59,4 @@ x.ss2.us
 ocsp.digitcert.com
 aia.entrust.net
 sf.symcd.com
+ctldl.windowsupdate.com

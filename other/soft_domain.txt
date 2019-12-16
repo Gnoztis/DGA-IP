@@ -38,3 +38,6 @@ update.qnap.com
 poll.omc.samsungdm.com
 appcloud.mcafee.com
 www.java.com
+ccleaner.tools.avcdn.net
+emupdate.avcdn.net
+www.adobe.com

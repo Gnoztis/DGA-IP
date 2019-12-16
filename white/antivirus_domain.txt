@@ -125,3 +125,7 @@ ipm-provider.ff.avast.com
 su2.ff.avast.com
 ff.avast.com
 data-cdn.mbamupdates.com
+b3156325.vps18.u.avcdn.net
+d3336443.iavs9x.u.avast.com
+ncc.avast.com
+www.z-oleg.com
