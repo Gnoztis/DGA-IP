@@ -37,3 +37,4 @@ pkgautoupdate.synology.com
 update.qnap.com
 poll.omc.samsungdm.com
 appcloud.mcafee.com
+www.java.com
