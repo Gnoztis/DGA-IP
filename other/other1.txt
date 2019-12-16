@@ -401,3 +401,6 @@ rostc.ru
 api.cloudleadia.com
 api.leadiacloud.com
 embed.windy.com
+ct.pinterest.com
+cms.quantserve.com
+pixel.quantserve.com
