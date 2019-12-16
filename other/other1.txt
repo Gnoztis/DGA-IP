@@ -409,3 +409,10 @@ auth.roxot-panel.com
 img.ppt.ru
 ppt.ru
 juresovet.ru
+special.prolexgroup.ru
+api.game-mode.net
+api-dev.game-mode.net
+c-api.game-mode.net
+ipm.game-mode.net
+scpm.game-mode.net
+service-hero.game-mode.net
