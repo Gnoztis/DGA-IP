@@ -35,3 +35,4 @@ rds-assets.nvidia.com
 assets.nvidiagrid.net
 pkgautoupdate.synology.com
 update.qnap.com
+poll.omc.samsungdm.com
