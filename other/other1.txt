@@ -423,3 +423,5 @@ api-diagmon.samsungdm.com
 hub-odc.samsungapps.com
 www.brendlabel.ru
 track.eyeviewads.com
+cft2.lki.ru
+lki.ru
