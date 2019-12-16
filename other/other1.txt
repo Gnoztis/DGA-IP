@@ -400,3 +400,4 @@ otvprim.tv
 rostc.ru
 api.cloudleadia.com
 api.leadiacloud.com
+embed.windy.com
