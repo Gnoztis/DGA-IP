@@ -421,3 +421,4 @@ vas.samsungapps.com
 api.spd.samsungdm.com
 api-diagmon.samsungdm.com
 hub-odc.samsungapps.com
+www.brendlabel.ru
