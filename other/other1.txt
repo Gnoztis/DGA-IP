@@ -390,3 +390,5 @@ dfm.ru
 rusradio.ru
 posobie-help.ru
 referatplus.ru
+pic-h.cdn-pegast.net
+s01.cdn-pegast.net
