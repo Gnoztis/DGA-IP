@@ -408,3 +408,4 @@ cdn-plus.roxot-panel.com
 auth.roxot-panel.com
 img.ppt.ru
 ppt.ru
+juresovet.ru
