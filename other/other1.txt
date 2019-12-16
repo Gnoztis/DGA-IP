@@ -416,3 +416,8 @@ c-api.game-mode.net
 ipm.game-mode.net
 scpm.game-mode.net
 service-hero.game-mode.net
+service.game-mode.net
+vas.samsungapps.com
+api.spd.samsungdm.com
+api-diagmon.samsungdm.com
+hub-odc.samsungapps.com
