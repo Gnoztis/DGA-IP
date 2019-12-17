@@ -499,3 +499,5 @@ images.sftcdn.net
 intimnyjotvet.ru
 sjws.ssl.qihucdn.com
 www.pride-line.ru
+cdn.geni.us
+www.geni.us
