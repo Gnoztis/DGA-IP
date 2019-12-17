@@ -492,3 +492,5 @@ tilda.ws
 ifase.ru
 lechimgaimorit.ru
 push4site.com
+img.mailer.hospitalmanagers.ru
+r.mailer.hospitalmanagers.ru
