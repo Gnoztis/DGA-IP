@@ -456,3 +456,9 @@ xtrapath3.izatcloud.net
 medtelecom.ru
 static.tildacdn.com
 tilda.ws
+img.tam.by
+img.tyt.by
+lady.tut.by
+news.tut.by
+tam.by
+www.tut.by
