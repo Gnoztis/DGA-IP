@@ -453,3 +453,4 @@ paksmet.ru
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
+medtelecom.ru
