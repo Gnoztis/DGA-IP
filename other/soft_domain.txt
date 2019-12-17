@@ -41,3 +41,4 @@ www.java.com
 ccleaner.tools.avcdn.net
 emupdate.avcdn.net
 www.adobe.com
+www.videolan.org
