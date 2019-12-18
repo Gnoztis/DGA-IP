@@ -615,3 +615,8 @@ kinoserial.tv
 secure.rating-widget.com
 js.hsadspixel.net
 www.100roads.com
+app.any.run
+content.any.run
+report.any.run
+vnc.any.run
+api.any.run
