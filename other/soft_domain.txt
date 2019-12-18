@@ -44,3 +44,4 @@ www.adobe.com
 www.videolan.org
 cdn.ghostery.net
 files.freshoffice.ru
+www.linuxmint.com
