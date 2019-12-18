@@ -623,3 +623,6 @@ api.any.run
 compaid.ru
 valenta.spb.ru
 kidschemistry.ru
+pensiya.molodaja-semja.ru
+cdn.trackjs.com
+smart.servier.com
