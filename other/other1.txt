@@ -622,3 +622,4 @@ vnc.any.run
 api.any.run
 compaid.ru
 valenta.spb.ru
+kidschemistry.ru
