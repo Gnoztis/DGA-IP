@@ -39,3 +39,4 @@ reklama.mail.ru
 t.mail.ru
 mrds.mail.ru
 binupdate.mail.ru
+crx.binupdate.mail.ru
