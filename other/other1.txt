@@ -648,3 +648,5 @@ mandarin-travel.com
 img2.secwk.com
 v3.jiathis.com
 sudebnaja.ru
+anisim.org
+cdn.4archive.org
