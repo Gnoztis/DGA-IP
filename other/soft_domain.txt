@@ -45,3 +45,5 @@ www.videolan.org
 cdn.ghostery.net
 files.freshoffice.ru
 www.linuxmint.com
+defsmeta.com
+www.defsmeta.com
