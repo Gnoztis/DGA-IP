@@ -672,3 +672,6 @@ denlorian.com
 widgets-code.websta.me
 student-pravo.ru
 bolezni.by
+web.habrastorage.org
+habr.habrastorage.org
+habrastorage.org
