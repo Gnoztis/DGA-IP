@@ -44,3 +44,4 @@ myip.ms
 2ip.ru
 cdn.whatismyipaddress.com
 whatismyipaddress.com
+www.ip-adress.com
