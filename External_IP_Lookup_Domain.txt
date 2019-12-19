@@ -42,3 +42,5 @@ addr.cx
 ip.rvpn.ws
 myip.ms
 2ip.ru
+cdn.whatismyipaddress.com
+whatismyipaddress.com
