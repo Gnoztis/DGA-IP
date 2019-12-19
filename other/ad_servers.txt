@@ -45786,3 +45786,11 @@ u3s.mathtag.com
 webcare.byside.com
 ads.betweendigital.com
 api-iam.intercom.io
+ak.quantcast.com
+widget.quantcast.com
+quantserve.com
+edge.quantcast.com
+www.edge.quantcast.com
+flash.quantcast.com
+pixel.quantcast.com
+secure..quantcast.com
