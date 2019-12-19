@@ -45794,4 +45794,4 @@ www.edge.quantcast.com
 flash.quantcast.com
 pixel.quantcast.com
 secure.quantcast.com
-cdn.optimizely.com
+ads.avocet.io
