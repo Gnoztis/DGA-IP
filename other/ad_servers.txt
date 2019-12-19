@@ -45793,4 +45793,4 @@ edge.quantcast.com
 www.edge.quantcast.com
 flash.quantcast.com
 pixel.quantcast.com
-secure..quantcast.com
+secure.quantcast.com
