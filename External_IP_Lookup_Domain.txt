@@ -45,3 +45,4 @@ myip.ms
 cdn.whatismyipaddress.com
 whatismyipaddress.com
 www.ip-adress.com
+extreme-ip-lookup.com

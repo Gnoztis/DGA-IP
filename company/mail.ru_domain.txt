@@ -37,3 +37,5 @@ pogoda.mail.ru
 likemore-fe.go.mail.ru
 reklama.mail.ru
 t.mail.ru
+mrds.mail.ru
+binupdate.mail.ru

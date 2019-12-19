@@ -47,3 +47,6 @@ files.freshoffice.ru
 www.linuxmint.com
 defsmeta.com
 www.defsmeta.com
+ccleaner.tools.avcdn.net
+cdn.ghostery.com
+cdn.adblockcdn.com

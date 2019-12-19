@@ -60,3 +60,4 @@ ocsp.digitcert.com
 aia.entrust.net
 sf.symcd.com
 ctldl.windowsupdate.com
+crl.tivuon.tv
