@@ -702,3 +702,4 @@ www.mosmedic.com
 pluginsjquery.com
 www.fontanka.ru
 medictionary.ru
+joomlart.s3.amazonaws.com
