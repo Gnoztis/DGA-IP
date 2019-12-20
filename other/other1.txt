@@ -340,7 +340,6 @@ static.calltouch.ru
 pixel.everesttech.net
 api-iam.intercom.io
 js.intercomcdn.com
-мойдоктор-вл.рф
 syncopajazz.com
 js.intercomcdn.com
 www.help-patient.ru
@@ -485,7 +484,6 @@ ortadunya.com
 catalog.app.iherb.com
 tv-medicina.ru
 code.getmdl.io
-код-кбк.рф
 vedgard.com
 www.estheticlife.ru
 tilda.ws
@@ -503,7 +501,6 @@ cdn.geni.us
 www.geni.us
 zakoniporydok.ru
 www.oktavian.org
-краснодарадвокат.рф
 tainy.net
 emhelp.jimdo.com
 doktorland.ru
@@ -526,7 +523,6 @@ newsmma.net
 akkordam.ru
 cmet4uk.ru
 classlit.ru
-гдз-класс.рф
 music-sborka.ru
 www.newsline.am
 artchange.ru
@@ -547,7 +543,6 @@ mirtaro.com
 vdp6.ru
 www.bestolochi.net
 img1.liveinternet.ru
-юбилей-на-бис.рф
 quantcast.mgr.consensu.org
 vendorlist.consensu.org
 is.gd
@@ -562,7 +557,6 @@ pro-palliativ.ru
 ir.ebaystatic.com
 community.ebay.com
 scenarii-dlja-vedushchego.ru
-учетбеззабот.рф
 worldofoncology.com
 www.aab.ru
 domains.agava.ru
@@ -629,7 +623,6 @@ smart.servier.com
 www.renmedprom.ru
 ispaniagid.ru
 www.med-obr.info
-смпо.рф
 system-administrators.info
 бесплодие.net
 segments.company-target.com
@@ -675,11 +668,9 @@ bolezni.by
 web.habrastorage.org
 habr.habrastorage.org
 habrastorage.org
-профосмотр-спб.рф
 assets.pinterest.com
 ct.pinterest.com
 olgakolos.ru
-профосмотр-спб.рф
 moyjurist.ru
 ileatherman.ru
 beerloga-restaraunt.ru
@@ -688,7 +679,6 @@ pol4.tomsk.ru
 i2.wp.com
 god20.ru
 1istochnik.ru
-магиявера.рф
 isralove.org
 www.hz0.ru
 cdn.optimizely.com
@@ -698,3 +688,12 @@ cdn.digitru.st
 whatschrome.org
 s101.ucoz.net
 xn--80abbnbma2d3ahb2c.xn--p1ai
+xn----dtbetgibqcbww.xn--p1ai
+xn----btb5ahabdfdeiekx.xn--p1ai
+xn----btbhxcbx.xn--p1ai
+xn--80aaaajjc7bgylfrfk1a.xn--p1ai
+xn----8sbhepth3ca.xn--p1ai
+xn-----7kccduufesz6cwj.xn--p1ai
+xn--80abbnbma2d3ahb2c.xn--p1ai
+xn--l1aecg.xn--p1ai
+xn--80aafdlqz1byj.xn--p1ai
