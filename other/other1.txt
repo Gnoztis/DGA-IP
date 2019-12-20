@@ -37,7 +37,6 @@ bos.icq.net
 testing.edu.rosminzdrav.ru
 csmirror.update.2gis.ru
 kit.fontawesome.com
-cdn.sendpulse.com
 downloads.1c.ru
 news.webits.1c.ru
 s0.bss.2gis.com
@@ -137,7 +136,6 @@ assets.strossle.com
 strossle.com
 sushi-magia.com
 bio-fitness.ru
-logx.optimizely.com
 siteintercept.qualtrics.com
 zn_0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 static-nur.akamaized.net
@@ -146,7 +144,6 @@ r2000.ru
 www.microgen.ru
 www.narashivanie-butovo.ru
 tattooplus.ru
-bio-fitness.ru
 gp36dzm.moscow
 update.medsoftpro.ru
 leadback.ru
@@ -166,7 +163,6 @@ poemata.ru
 1poezd.ru
 gkb11-chel.ru
 vladimirmalikov.com
-poemata.ru
 www.i-gazeta.com
 vkb1.ru
 ok-t.ru
@@ -177,8 +173,6 @@ shpargalkablog.ru
 lins.ru
 www.medicalib.ru
 www.fairy-tales.su
-foliant-dv.ru
-lins.ru
 24radiology.ru
 medsestra52.ru
 kids-pic.com
@@ -187,7 +181,6 @@ zaxargames.com
 kadrydelo.ru
 vesna39.ru
 www.rcabinet.ru
-lins.ru
 varikoz.ru
 interio-style.ru
 fazaa.ru
@@ -195,14 +188,12 @@ w.today
 chistoteldv.ru
 o-m-c.ru
 garantyou.ru
-assets.strossle.com
 proxy.strossle.it
 widgets.sprinklecontent.com
 odesskiy.com
 sequoia-design.ru
 semeynaya-kuchka.ru
 meddoclab.ru
-chistoteldv.ru
 d33t3vvu2t2yu5.cloudfront.net
 s.tradingview.com
 zonaobzora.ru
@@ -341,7 +332,6 @@ pixel.everesttech.net
 api-iam.intercom.io
 js.intercomcdn.com
 syncopajazz.com
-js.intercomcdn.com
 www.help-patient.ru
 zabriskieclub.ru
 101million.com
@@ -349,7 +339,6 @@ nevelskoy1.ru
 kremlin.ru
 fpn.flipboard.com
 mon.musical.ly
-amd-athena-raw.s3.amazonaws.com
 www.avtoritet-auto.ru
 mita.by
 www.kartinki.me
@@ -359,8 +348,6 @@ mumotiki.ru
 logyx.com
 eus.rubiconproject.com
 ekoramax.ru
-assets.strossle.com
-widgets.sprinklecontent.com
 hi-lp.ru
 lotosvl.ru
 floristvl.ru
@@ -380,7 +367,6 @@ blog.branch.io
 events.mobilegrowth.org
 static.trackivation.com
 i.ibb.co
-s.tradingview.com
 gaini.ru
 rs-i.ru
 www.rs-i.ru
@@ -401,8 +387,6 @@ api.cloudleadia.com
 api.leadiacloud.com
 embed.windy.com
 ct.pinterest.com
-cms.quantserve.com
-pixel.quantserve.com
 cdn-plus.roxot-panel.com
 auth.roxot-panel.com
 img.ppt.ru
@@ -430,10 +414,8 @@ r-cf.bstatic.com
 dptr.distiltag.com
 bukvaprava.ru
 consent.trustarc.com
-pic-h.cdn-pegast.net
 nephrorus.ru
 corp.viewbix.com
-www.viewbix.com
 medzamena.ru
 www.smart-kiddy.ru
 moydomik.net
@@ -478,15 +460,11 @@ raskraskityt.ru
 medach.pro
 image.subscribe.ru
 pixeltrack.eyeviewads.com
-eus.rubiconproject.com
-www.viewbix.com
 ortadunya.com
 catalog.app.iherb.com
 tv-medicina.ru
-code.getmdl.io
 vedgard.com
 www.estheticlife.ru
-tilda.ws
 ifase.ru
 lechimgaimorit.ru
 push4site.com
@@ -504,7 +482,6 @@ www.oktavian.org
 tainy.net
 emhelp.jimdo.com
 doktorland.ru
-intimnyjotvet.ru
 ucoz.ru
 forum.ucoz.ru
 partner.ucoz.ru
@@ -533,17 +510,13 @@ g2020.su
 infogosuslugi.ru
 dimir-dv.ru
 id5-sync.com
-www.farpost.ru
-www.vl.ru
 sdnjom.ru
 lubimiedeti.ru
 rod3.ru
-sdnjom.ru
 mirtaro.com
 vdp6.ru
 www.bestolochi.net
 img1.liveinternet.ru
-quantcast.mgr.consensu.org
 vendorlist.consensu.org
 is.gd
 ladies.by
@@ -587,10 +560,8 @@ registr1.ru
 domains.nethouse.ru
 www.domenus.ru
 mastername.ru
-www.reg.ru
 r01.ru
 fe.ru
-www.webnames.ru
 relcom.host
 www.realtimeregister.com
 runetproekt.ru
@@ -602,7 +573,6 @@ www.cetis-reg.ru
 www.getname.ru
 yu.ru
 www.101domain.ru
-sdnjom.ru
 mm.7ndmn.net
 wow.link
 kinoserial.tv
@@ -625,15 +595,12 @@ ispaniagid.ru
 www.med-obr.info
 system-administrators.info
 бесплодие.net
-segments.company-target.com
 d.lemonpi.io
-js.intercomcdn.com
 www.infarkta.net
 vsehalaty.ru
 link.community.blablacar.com
 sndgd.blablacar.com
 malsilo.gitlab.io
-www.renmedprom.ru
 girls-only.org
 bikermicefrommars.narod.ru
 img.liveinternet.ru
@@ -657,7 +624,6 @@ t1.daumcdn.net
 pediatrino.ru
 semcrb.ru
 get.optad360.io
-quantcast.mgr.consensu.org
 toy-bigomg.ru
 namewoman.ru
 agrokaluga40.ru
@@ -667,9 +633,7 @@ student-pravo.ru
 bolezni.by
 web.habrastorage.org
 habr.habrastorage.org
-habrastorage.org
 assets.pinterest.com
-ct.pinterest.com
 olgakolos.ru
 moyjurist.ru
 ileatherman.ru
@@ -694,7 +658,6 @@ xn----btbhxcbx.xn--p1ai
 xn--80aaaajjc7bgylfrfk1a.xn--p1ai
 xn----8sbhepth3ca.xn--p1ai
 xn-----7kccduufesz6cwj.xn--p1ai
-xn--80abbnbma2d3ahb2c.xn--p1ai
 xn--l1aecg.xn--p1ai
 xn--80aafdlqz1byj.xn--p1ai
 player.avplayer.com
@@ -707,7 +670,6 @@ strelyaj.ru
 www.medical-enc.ru
 i0.wp.com
 i1.wp.com
-i2.wp.com
 waurology.com
 gochs.info
 vladivostok.gorod.guru
@@ -722,8 +684,6 @@ lifeip.ru
 prospekt45.ru
 layf.info
 vladivostok.big-book-med.ru
-gochs.info
-js.intercomcdn.com
 images3.imgbox.com
 thumbnails39.imagebam.com
 thumbs3.imgbox.com
@@ -737,4 +697,6 @@ astromystik.ru
 www.pk25.ru
 www.modulit.ru
 rufposten.de
-c-api.game-mode.net
+news-front.info
+scarabresearch.com
+www.scarabresearch.com
