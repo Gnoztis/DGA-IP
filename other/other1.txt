@@ -710,3 +710,5 @@ i1.wp.com
 i2.wp.com
 waurology.com
 gochs.info
+vladivostok.gorod.guru
+pbs.twimg.com

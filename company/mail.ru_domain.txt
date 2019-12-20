@@ -40,3 +40,4 @@ t.mail.ru
 mrds.mail.ru
 binupdate.mail.ru
 crx.binupdate.mail.ru
+otvet.mail.ru
