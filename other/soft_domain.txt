@@ -53,3 +53,4 @@ cdn.adblockcdn.com
 omprussia.ru
 apps.corel.com
 calibre-ebook.com
+hpsasudf.ext.hp.com

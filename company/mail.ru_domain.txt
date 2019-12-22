@@ -41,3 +41,6 @@ mrds.mail.ru
 binupdate.mail.ru
 crx.binupdate.mail.ru
 otvet.mail.ru
+bk.ru
+list.ru
+inbox.ru
