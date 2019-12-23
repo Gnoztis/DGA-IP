@@ -782,3 +782,14 @@ www.malsup.com
 datatables.net
 ajax.aspnetcdn.com
 ajax.microsoft.com
+ru.shein.com
+shein.com
+www.srmdata.com
+recommender.scarabresearch.com
+sheinsz.ltwebstatic.com
+img.shein.com
+count.shein.com
+creativecdn.com
+api-shein.shein.com
+ams.creativecdn.com
+img.ltwebstatic.com
