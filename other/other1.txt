@@ -774,3 +774,11 @@ information.rapid7.com
 cdn-images.mailchimp.com
 www.zggr.ru
 www.fortunebrightcn.com
+www.jquery.com
+www.jqueryui.com
+www.jquerymobile.com
+www.jquery.com
+www.malsup.com
+datatables.net
+ajax.aspnetcdn.com
+ajax.microsoft.com
