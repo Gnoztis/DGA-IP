@@ -136,3 +136,4 @@ g0679661.iavs9x.u.avast.com
 resources.trendmicro.com
 trendmicro.com
 urldefense.proofpoint.com
+www.proofpoint.com
