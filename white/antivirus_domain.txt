@@ -137,3 +137,4 @@ resources.trendmicro.com
 trendmicro.com
 urldefense.proofpoint.com
 www.proofpoint.com
+www.symantec.com

@@ -61,3 +61,4 @@ aia.entrust.net
 sf.symcd.com
 ctldl.windowsupdate.com
 crl.tivuon.tv
+crl.sca1b.amazontrust.com
