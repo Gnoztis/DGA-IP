@@ -133,3 +133,5 @@ d4479313.vps18.u.avcdn.net
 overseer.tools.avcdn.net
 p3357684.iavs9x.u.avast.com
 g0679661.iavs9x.u.avast.com
+resources.trendmicro.com
+trendmicro.com
