@@ -801,3 +801,5 @@ imgurl.argumenti.ru
 www.argumenti.ru
 medilis.ru
 scastje-est.ru
+om25.ru
+www.om25.ru
