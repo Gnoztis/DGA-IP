@@ -838,3 +838,4 @@ m.kad.arbitr.ru
 my.arbitr.ru
 www.my.arbitr.ru
 labs.arbitr.ru
+jahero.ru
