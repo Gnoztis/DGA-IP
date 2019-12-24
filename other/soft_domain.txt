@@ -58,3 +58,4 @@ skslm.swiftkey.net
 version.unchecky.com
 logs.unchecky.com
 bbuilds.getgocdn.com
+www.xnview.com
