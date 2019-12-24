@@ -847,3 +847,4 @@ newid.afisha.ru
 s5.afisha.ru
 www.afisha.ru
 ibb.co
+ru.imgbb.com
