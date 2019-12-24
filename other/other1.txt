@@ -850,3 +850,4 @@ ibb.co
 ru.imgbb.com
 station-hotels.ru
 medcentr-msk.com
+api.disney.com
