@@ -772,7 +772,6 @@ detskie-raskraski.ru
 information.rapid7.com
 cdn-images.mailchimp.com
 www.zggr.ru
-www.fortunebrightcn.com
 www.jquery.com
 www.jqueryui.com
 www.jquerymobile.com
@@ -801,3 +800,4 @@ argumenti.ru
 imgurl.argumenti.ru
 www.argumenti.ru
 medilis.ru
+scastje-est.ru
