@@ -57,3 +57,4 @@ fpdownload2.macromedia.com
 skslm.swiftkey.net
 version.unchecky.com
 logs.unchecky.com
+bbuilds.getgocdn.com
