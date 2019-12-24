@@ -824,3 +824,6 @@ services.brid.tv
 www.chitai-gorod.ru
 gos-dpomed.ru
 rwgo.ru
+www.krasikov.info
+aids48.ru
+www.aids48.ru
