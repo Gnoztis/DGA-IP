@@ -875,3 +875,4 @@ publicsuffix.org
 5-point.ru
 www.5-point.ru
 creativity.mypartnershop.ru
+dogipedia.ru
