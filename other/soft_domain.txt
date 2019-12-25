@@ -59,3 +59,4 @@ version.unchecky.com
 logs.unchecky.com
 bbuilds.getgocdn.com
 www.xnview.com
+netcologne.dl.sourceforge.net
