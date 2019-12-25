@@ -884,3 +884,4 @@ d1azc1qln24ryf.cloudfront.net
 zdravotvet.ru
 static.queue-it.net
 1med-universitet.ru
+ru.thpanorama.com
