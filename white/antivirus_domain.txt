@@ -139,3 +139,4 @@ urldefense.proofpoint.com
 www.proofpoint.com
 www.symantec.com
 companyaccount.kaspersky.com
+www.bitdefender.com
