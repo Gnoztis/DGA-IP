@@ -887,3 +887,4 @@ static.queue-it.net
 ru.thpanorama.com
 static.intercomcdn.com
 meditasyon.co
+www.bona-katy.ru
