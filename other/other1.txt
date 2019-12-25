@@ -876,3 +876,4 @@ publicsuffix.org
 www.5-point.ru
 creativity.mypartnershop.ru
 dogipedia.ru
+mccic.ru
