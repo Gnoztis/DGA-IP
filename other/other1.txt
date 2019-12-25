@@ -711,7 +711,6 @@ kors-michael.com
 stroimsami.online
 winitpro.ru
 www.beeswax.com
-api-iam.intercom.io
 eda.ru
 gorzdrav.org.ru
 immunitet.org
@@ -752,7 +751,6 @@ static.hsappstatic.net
 omed.kz
 cmiso.ru
 anti-hacker-alliance.com
-s3.amazonaws.com
 westbang.lima-city.de
 www.iptrackeronline.com
 ostrovok-prazdnika.by
@@ -775,7 +773,6 @@ www.zggr.ru
 www.jquery.com
 www.jqueryui.com
 www.jquerymobile.com
-www.jquery.com
 www.malsup.com
 datatables.net
 ajax.aspnetcdn.com
@@ -813,7 +810,6 @@ proinsultmozga.ru
 mgo-voi.ru
 sosudy.lechenie-gipertoniya.ru
 petuhoff.ru
-mgo-voi.ru
 sfvstu.ru
 zemser.ru
 www.mss-tver.ru
@@ -881,5 +877,4 @@ royal-cat.ru
 akro-spb.ru
 www.strategy-center.ru
 www.countrysideliving.net
-choices.truste.com
 my-book-shop.ru
