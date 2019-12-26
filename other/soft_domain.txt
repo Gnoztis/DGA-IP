@@ -61,3 +61,5 @@ bbuilds.getgocdn.com
 www.xnview.com
 netcologne.dl.sourceforge.net
 trustlist.adobe.com
+sergeistrelec.ru
+mirror.linux-ia64.org
