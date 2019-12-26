@@ -930,3 +930,4 @@ vladivostok.irr.ru
 ligio.ru
 vkb2.ru.xsph.ru
 rec.nevosoft.ru
+s3.eu-central-1.amazonaws.com
