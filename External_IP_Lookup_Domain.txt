@@ -47,3 +47,4 @@ whatismyipaddress.com
 www.ip-adress.com
 extreme-ip-lookup.com
 ip-score.com
+ip-whois.net
