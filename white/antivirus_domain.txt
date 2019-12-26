@@ -140,3 +140,4 @@ www.proofpoint.com
 www.symantec.com
 companyaccount.kaspersky.com
 www.bitdefender.com
+fortinetweb.s3.amazonaws.com
