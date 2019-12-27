@@ -982,3 +982,4 @@ cdn.adnxs.com
 secure.livechatinc.com
 assets.asosservices.com
 resources.asosservices.com
+js.pngtree.com
