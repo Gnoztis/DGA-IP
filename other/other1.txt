@@ -967,4 +967,4 @@ cdn-plus.roxot-panel.com
 wave.sndcdn.com
 w1.sndcdn.com
 wis.sndcdn.com
-http://www.w3.org
+www.w3.org
