@@ -980,3 +980,5 @@ secure.quantserve.com
 acdn.adnxs.com
 cdn.adnxs.com
 secure.livechatinc.com
+assets.asosservices.com
+resources.asosservices.com
