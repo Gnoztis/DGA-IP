@@ -963,3 +963,7 @@ tilda.cc
 684fc537.akstat.io
 c.go-mpulse.net
 s.go-mpulse.net
+cdn-plus.roxot-panel.com
+wave.sndcdn.com
+w1.sndcdn.com
+wis.sndcdn.com
