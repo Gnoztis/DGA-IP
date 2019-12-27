@@ -968,3 +968,4 @@ wave.sndcdn.com
 w1.sndcdn.com
 wis.sndcdn.com
 www.w3.org
+www.muzgb.ru
