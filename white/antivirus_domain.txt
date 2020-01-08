@@ -113,7 +113,6 @@ autorenew.drweb.com
 i5.c.eset.com
 uupdate.avast.com
 v7event.stats.avast.com
-s03.upd.kaspersky.com
 c.eset.com
 edf.eset.com
 shepherd.ff.avast.com
@@ -127,7 +126,6 @@ ff.avast.com
 data-cdn.mbamupdates.com
 b3156325.vps18.u.avcdn.net
 d3336443.iavs9x.u.avast.com
-ncc.avast.com
 www.z-oleg.com
 d4479313.vps18.u.avcdn.net
 overseer.tools.avcdn.net
@@ -151,5 +149,12 @@ ksn-crypto-info-geo.kaspersky-labs.com
 click.kaspersky.com
 redirect.kaspersky.com
 activation-v2.kaspersky.com
-moebius.kaspersky-labs.com
 moebius.geo.kaspersky.com
+cm.k.kaspersky-labs.com
+ksn-a-stat-geo.kaspersky-labs.com
+ksn-file-geo.kaspersky-labs.com
+ksn-verdict-geo.kaspersky-labs.com
+ksn-url-geo.kaspersky-labs.com
+ksn-a-p2p-geo.kaspersky-labs.com
+ksn-info-geo.kaspersky-labs.com
+ksn-cinfo-geo.kaspersky-labs.com
