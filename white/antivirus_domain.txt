@@ -141,3 +141,15 @@ www.symantec.com
 companyaccount.kaspersky.com
 www.bitdefender.com
 fortinetweb.s3.amazonaws.com
+ksn-crypto-a-stat-geo.kaspersky-labs.com
+ksn-crypto-file-geo.kaspersky-labs.com
+ksn-crypto-verdict-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-pbs-geo.kaspersky-labs.com
+ksn-crypto-a-p2p-geo.kaspersky-labs.com
+ksn-crypto-info-geo.kaspersky-labs.com
+click.kaspersky.com
+redirect.kaspersky.com
+activation-v2.kaspersky.com
+moebius.kaspersky-labs.com
+moebius.geo.kaspersky.com
