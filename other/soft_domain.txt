@@ -71,5 +71,7 @@ dev.veeam.com
 netcologne.dl.sourceforge.net
 netix.dl.sourceforge.net
 download.media-get.com
-version.goforandroid.com
 goforandroid.com
+version.goforandroid.com
+conf.goforandroid.com
+sebz.goforandroid.com
