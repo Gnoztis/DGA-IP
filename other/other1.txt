@@ -995,3 +995,6 @@ app.adjust.com
 s-hit.ru
 docs.adjust.com
 veravet.ru
+composs.ru
+vdnh2020.tass.ru
+tass.ru
