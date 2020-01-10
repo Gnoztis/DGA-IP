@@ -215,3 +215,4 @@ navobs1.wustl.edu
 now.okstate.edu
 ntp.colby.edu
 ntp-s1.cise.ufl.edu
+ntp1.ona.org
