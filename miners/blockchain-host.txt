@@ -1,0 +1,3 @@
+blockchain.info
+api.blockcypher.com
+viabtc.com
