@@ -198,3 +198,7 @@ ntp3.stratum2.ru
 ntp4.stratum2.ru
 ntp5.stratum2.ru
 ntp.gsu.edu
+ntp.rsu.edu.ru
+ntp.nict.jp
+ntp.ripe.net
+
