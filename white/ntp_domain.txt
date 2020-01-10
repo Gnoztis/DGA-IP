@@ -204,7 +204,6 @@ ntp.ripe.net
 tick.usno.navy.mil
 tock.usno.navy.mil
 ntp2.usno.navy.mil
-utcnist2.colorado.edu
 timekeeper.isi.edu
 rackety.udel.edu
 mizbeaver.udel.edu
@@ -216,3 +215,17 @@ now.okstate.edu
 ntp.colby.edu
 ntp-s1.cise.ufl.edu
 ntp1.ona.org
+ntp1.fortiguard.com
+ntp2.fortiguard.com
+time-e-g.nist.gov
+time-e-wwv.nist.gov
+time-e-b.nist.gov
+ntp-b.nist.gov
+ntp-wwv.nist.gov
+ntp-c.colorado.edu
+ntp-d.nist.gov
+ut1-time.colorado.edu
+ut1-wwv.nist.gov
+ntp1.bu.edu
+ntp2.bu.edu
+ntp3.bu.edu
