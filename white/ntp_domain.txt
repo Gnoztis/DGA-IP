@@ -237,3 +237,8 @@ ntp3.bu.edu
 1.xenserver.pool.ntp.org
 2.xenserver.pool.ntp.org
 3.xenserver.pool.ntp.org
+ntp.msk-ix.ru
+ntp0.zenon.net
+gps-time.prao.psn.ru
+ntp.mobatime.ru
+ntp.nasa.gov
