@@ -1056,3 +1056,4 @@ pixel.quantserve.com
 secure.quantserve.com
 primkray.arbitr.ru
 5aas.arbitr.ru
+seminar-inform.ru
