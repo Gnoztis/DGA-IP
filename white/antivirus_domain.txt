@@ -160,3 +160,7 @@ ksn-info-geo.kaspersky-labs.com
 ksn-cinfo-geo.kaspersky-labs.com
 dmpupload.kaspersky-labs.com
 gc.kis.v2.scr.kaspersky-labs.com
+blog.talosintelligence.com
+www.talosintelligence.com
+www.malwaredomainlist.com
+cybercrime-tracker.net
