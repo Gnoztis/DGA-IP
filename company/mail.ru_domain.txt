@@ -45,3 +45,7 @@ bk.ru
 list.ru
 inbox.ru
 mxs.mail.ru
+mail.mail.ru
+smtp.mail.ru
+imap.mail.ru
+pop.mail.ru
