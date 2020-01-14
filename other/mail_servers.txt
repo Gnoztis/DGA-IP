@@ -1,0 +1,3 @@
+mx1.hosting.reg.ru
+mx2.hosting.reg.ru
+relay.agava.net
