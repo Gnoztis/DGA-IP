@@ -15,10 +15,16 @@ smtp.mail.me.com
 outlook.office365.com
 smtp.masterhost.ru
 imap.masterhost.ru
-smtp.masterhost.ru
 p70-imap.mail.me.com
 p70-imap.mail.me.com.akadns.net
 p64-imap.mail.me.com
 p64-imap.mail.me.com.akadns.net
 mail.rambler.ru
 p21-imap.mail.me.com
+mail.yandex.com
+pop.yandex.com.tr
+imap.yandex.com.tr
+smtp.yandex.ru
+smtp.yandex.com
+smtp.yandex.com.tr
+mail.yandex.ru
