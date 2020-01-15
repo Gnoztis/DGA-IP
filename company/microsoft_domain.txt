@@ -186,3 +186,7 @@ account.live.com
 ectory.services.live.com
 login.live.com
 www.outlook.com
+outlook-com.olc.protection.outlook.com
+nam.olc.protection.outlook.com
+hotmail-com.olc.protection.outlook.com
+live-com.olc.protection.outlook.com
