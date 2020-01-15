@@ -8,3 +8,4 @@ help.pinterest.com
 blog.pinterest.com
 newsroom.pinterest.com
 about.pinterest.com
+assets.pinterest.com
