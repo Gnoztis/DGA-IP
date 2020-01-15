@@ -3735,3 +3735,10 @@ ns3.google.com
 ns4.google.com
 alt2-safebrowsing.google.com
 fcmconnection.googleapis.com
+alt1.aspmx.l.google.com
+aspmx.l.google.com
+alt2.aspmx.l.google.com
+aspmx2.googlemail.com
+aspmx3.googlemail.com
+aspmx4.googlemail.com
+aspmx5.googlemail.com
