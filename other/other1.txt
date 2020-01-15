@@ -1126,3 +1126,14 @@ ue.flipboard.com
 from.flipboard.com
 cosmo-trade.ru
 uguide.ru
+client.perimeterx.net 
+perimeterx.net
+collector-pxrf8vapwa.perimeterx.net
+collector-pxhyx10rg3.perimeterx.net
+collector-pxzhh9f9x0.perimeterx.net
+collector-px8fcgygk4.perimeterx.net
+collector-pxikkul2rm.perimeterx.net
+collector-pxrf8vapwa.perimeterx.net
+collector-pxyo6yjwlb.perimeterx.net
+collector-pxzyvfoxac.perimeterx.net
+collector-pxo97ybh4j.perimeterx.net
