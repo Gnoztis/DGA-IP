@@ -1,1 +1,2 @@
 ping3.teamviewer.com
+ping3.dyngate.com
