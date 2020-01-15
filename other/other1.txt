@@ -1277,3 +1277,8 @@ collector-pxnu7yjejr.perimeterx.net
 windd.ru
 authentication.logmeininc.com
 vellisa.ru
+cdnjs.cloudflare.com
+hb.adp3.net
+rtb.adp3.net
+ants.rtb.adp3.net
+cdn.adp3.net
