@@ -28,3 +28,6 @@ smtp.yandex.ru
 smtp.yandex.com
 smtp.yandex.com.tr
 mail.yandex.ru
+inmx.rambler.ru
+imx1.rambler.ru
+imx2.rambler.ru
