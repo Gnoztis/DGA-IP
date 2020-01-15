@@ -90,3 +90,16 @@ init-kt.apple.com
 init-p01st.push.apple.com
 www.apple.com
 init.push.apple.com
+web.me.com
+public.me.com
+secure.me.com
+publish.me.com
+auth.me.com
+idisk.me.com
+cal.me.com
+ical.me.com
+mail.me.com
+p04-fmip.me.com
+files.me.com
+www.me.com
+gallery.me.com
