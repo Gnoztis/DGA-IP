@@ -1363,3 +1363,6 @@ favabaracsv.s3.eu-west-1.amazonaws.com
 davor-data-file.s3.eu-west-1.amazonaws.com
 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 kardiobit.ru
+dco.tradelab.fr
+its.tradelab.fr
+api.tradelab.fr
