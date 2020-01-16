@@ -75,3 +75,4 @@ goforandroid.com
 version.goforandroid.com
 conf.goforandroid.com
 sebz.goforandroid.com
+speeddials.opera.com
