@@ -164,3 +164,4 @@ blog.talosintelligence.com
 www.talosintelligence.com
 www.malwaredomainlist.com
 cybercrime-tracker.net
+csof.net
