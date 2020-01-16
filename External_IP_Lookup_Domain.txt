@@ -49,3 +49,5 @@ extreme-ip-lookup.com
 ip-score.com
 ip-whois.net
 ip.seeip.org
+ipecho.net
+wtfismyip.com
