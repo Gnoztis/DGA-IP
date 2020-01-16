@@ -1326,3 +1326,4 @@ news-kmv.ru
 stat.smm-fabrika.ru
 www.peterpeat.ru
 sacividv.ru
+cw.addthis.com
