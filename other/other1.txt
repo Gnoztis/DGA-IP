@@ -1290,3 +1290,17 @@ all-italy.net
 vetaptekadv.ru
 admsoft.ru
 chudesnyemesta.ru
+lifets.eu
+2gis.ru
+disk.2gis.com
+ams2-cdn.2gis.com
+d-assets.2gis.ru
+traffic3.edromaps.2gis.com
+catalog.api.2gis.ru
+favorites.api.2gis.ru
+tile0.maps.2gis.com
+tile1.maps.2gis.com
+tile2.maps.2gis.com
+tile3.maps.2gis.com
+s0.bss.2gis.com
+mapgl.2gis.com
