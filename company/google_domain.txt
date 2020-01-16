@@ -3742,3 +3742,7 @@ aspmx2.googlemail.com
 aspmx3.googlemail.com
 aspmx4.googlemail.com
 aspmx5.googlemail.com
+alt7-mtalk.google.com
+alt5-mtalk.google.com
+mobile-gtalk4.l.google.com
+mtalk4.google.com
