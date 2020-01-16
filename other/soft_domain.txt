@@ -76,3 +76,4 @@ version.goforandroid.com
 conf.goforandroid.com
 sebz.goforandroid.com
 speeddials.opera.com
+www.burnaware.com
