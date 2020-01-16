@@ -31,18 +31,14 @@ imx2.rambler.ru
 p40-imap.mail.me.com
 p48-imap.mail.me.com
 p24-imap.mail.me.com
-imap.mail.me.com
 p10-imap.mail.me.com
 p20-imap.mail.me.com
 p30-imap.mail.me.com
-p40-imap.mail.me.com
 p50-imap.mail.me.com
 p60-imap.mail.me.com
-p70-imap.mail.me.com
 p80-imap.mail.me.com
 p01-imap.mail.me.com
 p11-imap.mail.me.com
-p21-imap.mail.me.com
 p31-imap.mail.me.com
 p41-imap.mail.me.com
 p51-imap.mail.me.com
@@ -66,11 +62,9 @@ p63-imap.mail.me.com
 p73-imap.mail.me.com
 p04-imap.mail.me.com
 p14-imap.mail.me.com
-p24-imap.mail.me.com
 p34-imap.mail.me.com
 p44-imap.mail.me.com
 p54-imap.mail.me.com
-p64-imap.mail.me.com
 p74-imap.mail.me.com
 p05-imap.mail.me.com
 p15-imap.mail.me.com
@@ -99,7 +93,6 @@ p97-imap.mail.me.com
 p18-imap.mail.me.com
 p28-imap.mail.me.com
 p38-imap.mail.me.com
-p48-imap.mail.me.com
 p58-imap.mail.me.com
 p68-imap.mail.me.com
 p78-imap.mail.me.com
@@ -112,7 +105,6 @@ p49-imap.mail.me.com
 p59-imap.mail.me.com
 p69-imap.mail.me.com
 p79-imap.mail.me.com
-smtp.mail.me.com
 p10-smtp.mail.me.com
 p20-smtp.mail.me.com
 p30-smtp.mail.me.com
