@@ -1362,5 +1362,4 @@ temp-rml-eu-prod.s3.eu-west-1.amazonaws.com
 favabaracsv.s3.eu-west-1.amazonaws.com
 davor-data-file.s3.eu-west-1.amazonaws.com
 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
-v.qq.com
 kardiobit.ru
