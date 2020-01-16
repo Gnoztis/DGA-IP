@@ -1277,7 +1277,6 @@ collector-pxnu7yjejr.perimeterx.net
 windd.ru
 authentication.logmeininc.com
 vellisa.ru
-cdnjs.cloudflare.com
 hb.adp3.net
 rtb.adp3.net
 ants.rtb.adp3.net
@@ -1296,13 +1295,11 @@ disk.2gis.com
 ams2-cdn.2gis.com
 d-assets.2gis.ru
 traffic3.edromaps.2gis.com
-catalog.api.2gis.ru
 favorites.api.2gis.ru
 tile0.maps.2gis.com
 tile1.maps.2gis.com
 tile2.maps.2gis.com
 tile3.maps.2gis.com
-s0.bss.2gis.com
 mapgl.2gis.com
 www.medicalport.info
 aics.su
@@ -1323,3 +1320,5 @@ napirse.ru
 fanoboi.com
 megapakdv.ru
 all-freeload.net
+s3-eu-central-1.amazonaws.com
+s3.dualstack.eu-central-1.amazonaws.com
