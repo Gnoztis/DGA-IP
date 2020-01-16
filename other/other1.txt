@@ -1322,3 +1322,7 @@ megapakdv.ru
 all-freeload.net
 s3-eu-central-1.amazonaws.com
 s3.dualstack.eu-central-1.amazonaws.com
+news-kmv.ru
+stat.smm-fabrika.ru
+www.peterpeat.ru
+sacividv.ru
