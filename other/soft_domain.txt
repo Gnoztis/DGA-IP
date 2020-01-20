@@ -77,3 +77,7 @@ conf.goforandroid.com
 sebz.goforandroid.com
 speeddials.opera.com
 www.burnaware.com
+cmp-cdn.ghostery.com
+ispsystem.com
+www.ispsystem.com
+www.ispsystem.ru
