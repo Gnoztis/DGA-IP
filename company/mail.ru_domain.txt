@@ -85,3 +85,4 @@ sales.mail.ru
 corp.mail.ru
 team.mail.ru
 corp.imgsmail.ru
+cloclo18.cldmail.ru
