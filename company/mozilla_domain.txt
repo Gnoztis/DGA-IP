@@ -138,3 +138,4 @@ www.mozillafoundation.org
 www.mozilla.org
 tiles-cloudfront.cdn.mozilla.net
 accounts-static.cdn.mozilla.net
+aus.thunderbird.net

@@ -221,3 +221,4 @@ europe.smartscreen-prod.microsoft.com
 evoke-windowsservices-tas.msedge.net
 optanon.blob.core.windows.net
 get.skype.com
+www.xbox.com
