@@ -38,7 +38,6 @@ csp.yandex.net
 yabs.yandex.ru
 cloud-api.yandex.net
 static.yandex.net
-yandex.net
 webmaster.yandex.ru
 rabota.yandex.ru
 realty.yandex.ru
@@ -71,5 +70,4 @@ pop.yandex.com.tr
 imap.yandex.com.tr
 smtp.yandex.com
 smtp.yandex.com.tr
-smtp.yandex.ru
-mail.yandex.ru
+api.passport.yandex.ru
