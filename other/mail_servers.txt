@@ -172,3 +172,4 @@ p69-smtp.mail.me.com
 p79-smtp.mail.me.com
 smtp.me.com
 mx.2gis.com
+smtp.live.com
