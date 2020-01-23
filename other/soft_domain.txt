@@ -86,3 +86,4 @@ java.com
 rarlab.com
 get.geo.opera.com
 adobe.com
+download.sf-helper.com

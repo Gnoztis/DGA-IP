@@ -60263,3 +60263,6 @@ tracker.bannerflow.com
 5a2e46cca4dbc31ac43a88b2.tracker.bannerflow.com
 r.dlx.addthis.com
 geo-tracker.smadex.com
+acuityplatform.com
+u.acuityplatform.com
+e.dlx.addthis.com

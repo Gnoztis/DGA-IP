@@ -1612,3 +1612,5 @@ www.lang-eng.ru
 sync-jp.im-apps.net
 api.breachbits.com
 api.dev.breachbits.com
+mapr.wufoo.com
+secure.wufoo.com
