@@ -253,3 +253,4 @@ cdab1fad056618666e1f27506e37183a.fp.measure.office.com
 attachment.outlook.office.net
 attachment.outlook.live.net
 7380a8d3e57a86cdeaf95407af308e43.fp.measure.office.com
+waws-prod-bay-081.vip.azurewebsites.windows.net
