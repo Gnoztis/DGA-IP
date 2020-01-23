@@ -1620,3 +1620,4 @@ e.serverbid.com
 sync.ipredictive.com
 astro-magiya.ru
 alcovarov.ru
+reduksin.org
