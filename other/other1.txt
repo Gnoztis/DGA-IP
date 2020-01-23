@@ -1600,3 +1600,6 @@ ua5.mirror.alawar.com
 ua1.mirror.alawar.com
 kz01.mirror.alawar.com
 am10.mirror.alawar.com
+adobe.demdex.net
+dpm.demdex.net
+demdex.net

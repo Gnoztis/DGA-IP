@@ -85,3 +85,4 @@ extension-updates.opera.com
 java.com
 rarlab.com
 get.geo.opera.com
+adobe.com
