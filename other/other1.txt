@@ -1614,3 +1614,7 @@ api.breachbits.com
 api.dev.breachbits.com
 mapr.wufoo.com
 secure.wufoo.com
+Wikipedia.firstpartyapps.oaspapps.com
+t.visx.net
+e.serverbid.com
+sync.ipredictive.com
