@@ -173,3 +173,5 @@ p79-smtp.mail.me.com
 smtp.me.com
 mx.2gis.com
 smtp.live.com
+mx02.nicmail.ru
+mx01.nicmail.ru
