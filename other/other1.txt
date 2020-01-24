@@ -1657,3 +1657,4 @@ airlines.aero
 ural.airlines.aero
 2ch.hk
 oknabelgoroda.ru
+vk39.ru
