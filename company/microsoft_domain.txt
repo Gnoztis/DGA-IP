@@ -699,3 +699,4 @@ d0075572e31cf487e5ec4e9f8f908d34.fp.measure.office.com
 c44ce0bcf2c30544e5277793704ebb70.fp.measure.office.com
 9a69bab778464b9aa12b789579db4122.fp.measure.office.com
 ba36f8f8c70e8f15c6580609bc17fc12.fp.measure.office.com
+bat.bing.com

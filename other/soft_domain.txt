@@ -87,3 +87,6 @@ rarlab.com
 get.geo.opera.com
 adobe.com
 download.sf-helper.com
+www.chemtable.com
+live.sysinternals.com
+sysinternals.com
