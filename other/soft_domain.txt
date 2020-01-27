@@ -95,3 +95,4 @@ s06.do.update.2gis.com
 s12.update.2gis.com
 s14.update.2gis.com
 s6.update.2gis.com
+aimp.ru
