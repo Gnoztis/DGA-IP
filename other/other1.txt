@@ -1703,3 +1703,5 @@ sync.colossusssp.com
 tps.doubleverify.com
 ul1.dvtps.com
 c.clicktale.net
+cdn.shanghaitang.cn
+udc-neb.kampyle.com
