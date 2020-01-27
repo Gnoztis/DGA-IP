@@ -60269,3 +60269,6 @@ e.dlx.addthis.com
 www.dmpcloud.net
 www.storygize.net
 gc.mediatoday.ru
+api.amplitude.com
+device-metrics-us.amazon.com
+app-analytics.snapchat.com
