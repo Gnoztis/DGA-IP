@@ -1700,3 +1700,5 @@ c.eu1.dyntrk.com
 udc-neb.kampyle.com
 pgusa.ru
 sync.colossusssp.com
+tps.doubleverify.com
+ul1.dvtps.com
