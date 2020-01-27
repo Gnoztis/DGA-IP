@@ -96,3 +96,8 @@ s12.update.2gis.com
 s14.update.2gis.com
 s6.update.2gis.com
 aimp.ru
+de.download.ispsystem.com
+ftp.nsc.ru
+mirror.docker.ru
+mirror.logol.ru
+ru.download.ispsystem.com
