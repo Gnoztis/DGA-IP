@@ -177,3 +177,4 @@ relay-0f25efef.net.anydesk.com
 relays.net.anydesk.com
 support.anydesk.com
 www.anydesk.com
+anydesk.com
