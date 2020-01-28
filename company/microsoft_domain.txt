@@ -702,3 +702,5 @@ ba36f8f8c70e8f15c6580609bc17fc12.fp.measure.office.com
 bat.bing.com
 www.msftncsi.com
 iecvlist.microsoft.com
+b-cc-asea-01.cc.skype.com
+b-broker-asea-01.broker.skype.com
