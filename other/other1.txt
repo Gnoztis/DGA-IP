@@ -1716,3 +1716,7 @@ redirector.gvt1.com
 r5---sn-aigzrner.gvt1.com
 r1---sn-aigzrn7k.gvt1.com
 maxcdn.bootstrapcdn.com
+use.fontawesome.com
+unpkg.com
+r3---sn-aigzrn76.gvt1.com
+r5---sn-aigzrn7e.gvt1.com
