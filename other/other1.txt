@@ -1738,3 +1738,7 @@ cdp.cloud.unity3d.com
 relaxplayer.ru
 pravotnosheniya.info
 datatracking.ru
+pozdravlenija.online
+steamcdn-a.akamaihd.net
+steamstore-a.akamaihd.net
+zip-all.ru

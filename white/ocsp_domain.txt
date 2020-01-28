@@ -65,3 +65,4 @@ crl.sca1b.amazontrust.com
 crl.kaspersky.com
 ocsp.kaspersky.com
 trustlist.adobe.com
+isrg.trustid.ocsp.identrust.com
