@@ -704,3 +704,4 @@ www.msftncsi.com
 iecvlist.microsoft.com
 b-cc-asea-01.cc.skype.com
 b-broker-asea-01.broker.skype.com
+eur01.safelinks.protection.outlook.com
