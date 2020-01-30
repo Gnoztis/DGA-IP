@@ -1772,3 +1772,4 @@ www.profmt.ru
 napisat-pismo-gubernatoru.ru
 primfarma.ru
 lab102.ru
+static.wixstatic.com
