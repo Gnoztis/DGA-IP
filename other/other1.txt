@@ -1785,3 +1785,5 @@ rambler.pushwoosh.com
 706c5-2cf06.api.pushwoosh.com
 9dfaf-1b532.api.pushwoosh.com
 matchtv.pushwoosh.com
+8c566-41b73.api.pushwoosh.com
+b0072-e87fe.api.pushwoosh.com
