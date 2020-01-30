@@ -104,3 +104,4 @@ files.me.com
 www.me.com
 gallery.me.com
 query.ess.apple.com
+gsp64-ssl.ls.apple.com
