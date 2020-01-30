@@ -51,3 +51,4 @@ ip-whois.net
 ip.seeip.org
 ipecho.net
 wtfismyip.com
+myip.opendns.com
