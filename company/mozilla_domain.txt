@@ -161,3 +161,4 @@ nslb.sj.mozilla.com
 mozilla.net
 mozilla.ca
 mozilla.fr
+profile.accounts.firefox.com
