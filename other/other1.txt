@@ -2789,3 +2789,8 @@ db97744efd0f11e3875d2adbce19ae27.wildcard-ams4.bstatic.com
 2474a842408c11e5a8759ffbce19ae27.wildcard-ams4.bstatic.com
 1cfbf3da405611e5a5269ffbce19ae27.wildcard-ams4.bstatic.com
 03a47d96405911e5a5269ffbce19ae27.wildcard-ams4.bstatic.com
+img1.gtimg.com
+imgcache.qq.com
+inews.gtimg.com
+vm.gtimg.cn
+www.qq.com
