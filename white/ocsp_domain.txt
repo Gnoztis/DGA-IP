@@ -66,3 +66,4 @@ crl.kaspersky.com
 ocsp.kaspersky.com
 trustlist.adobe.com
 isrg.trustid.ocsp.identrust.com
+crl.adobe.com

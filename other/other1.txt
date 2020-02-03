@@ -2797,3 +2797,9 @@ www.qq.com
 log2.musical.ly
 ru.pcviruscare.com
 2cyr.com
+heroine.ru
+cdn-2.heroine.ru
+cdn-0.heroine.ru
+cdn-1.heroine.ru
+cdn-3.heroine.ru
+cdn-4.heroine.ru
