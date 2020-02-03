@@ -2,3 +2,4 @@ ping3.teamviewer.com
 ping3.dyngate.com
 linux.teamviewer.com
 client.teamviewer.com
+router15.teamviewer.com
