@@ -2804,3 +2804,4 @@ cdn-1.heroine.ru
 cdn-3.heroine.ru
 cdn-4.heroine.ru
 edema-club.ru
+avaline.ru
