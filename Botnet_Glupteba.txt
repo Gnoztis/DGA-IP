@@ -124,3 +124,16 @@ theatresearch.xyz
 nxtfdata.xyz
 172.64.111.36
 104.18.47.53
+####################################################
+http://massiveart.info/app/app.exe
+75ce4a2e35d3cc04be3fec9df48282b6f27f9c9fe8f4fff4ba03f1570cdb370f
+06ff17c39bb7692a5aac1a5b4b5083f764155bd5
+37c6aaf284a332cc5a3c04b84a289233
+889fb266c4c01bb4ef67635249c8daeb641fc86ce62fc280b34beec415fb6129
+eb0be2ac3833c843214a55b14c31125a7b600d5272bdf322c4871f42627576e4
+f609c6656a0c451dafa5173df0cd848f7cb7f22c4f150f8d16716c12593de66c
+c33051bdd518a4a41de46d23ce6eac4ef941b77b7f9183aeff3ecf6eed699f44
+whitecontroller.com
+bestblues.tech
+172.64.197.16
+104.28.12.94
