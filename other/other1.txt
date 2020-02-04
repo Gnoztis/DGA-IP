@@ -2805,3 +2805,5 @@ cdn-3.heroine.ru
 cdn-4.heroine.ru
 edema-club.ru
 avaline.ru
+eias.fas.gov.ru
+eias.fstrf.ru
