@@ -141,3 +141,5 @@ armmf.adobe.com
 ardownload.adobe.com
 acroipm2.adobe.com
 www.adobe.com
+download.01.org
+vorboss.dl.sourceforge.net
