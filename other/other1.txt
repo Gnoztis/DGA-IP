@@ -2755,3 +2755,5 @@ cexp.booking.com
 discord.gg
 uploads.sispp.ru
 sispp.ru
+delphibasics.ru
+www.delphibasics.ru
