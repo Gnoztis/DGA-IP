@@ -138,7 +138,6 @@ www.proofpoint.com
 www.symantec.com
 companyaccount.kaspersky.com
 www.bitdefender.com
-fortinetweb.s3.amazonaws.com
 ksn-crypto-a-stat-geo.kaspersky-labs.com
 ksn-crypto-file-geo.kaspersky-labs.com
 ksn-crypto-verdict-geo.kaspersky-labs.com

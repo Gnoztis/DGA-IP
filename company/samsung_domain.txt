@@ -9,7 +9,6 @@ az43064.vo.msecnd.net
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
 configprd.samsungcloudsolution.net
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 cpu.samsungelectronics.com
 d179kwmlpc4o47.cloudfront.ne
 d179kwmlpc4o47.cloudfront.net
@@ -68,12 +67,10 @@ samsungrm.net
 sas.samsungcloudsolution.com
 sca.samsung.com
 sso.internetat.tv
-syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
 time.samsungcloudsolution.com
 us-api.samsungyosemite.com
-vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
@@ -86,7 +83,6 @@ upu.samsungelectronics.com
 zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
-vd.contents.prod.eu.s3.amazonaws.com
 log-ingestion-eu.samsungacr.com
 cdn.samsung.com
 www.samsung.com

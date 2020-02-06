@@ -23,7 +23,6 @@ ocsp.trustwave.com
 certificates.intel.com
 certificates.intel.com.edgesuite.net
 crl.quovadisglobal.com
-crl.quovadisglobal.com.s3-website.eu-central-1.amazonaws.com
 crl.verisign.com
 crl-symcprod.digicert.com
 status.geotrust.com

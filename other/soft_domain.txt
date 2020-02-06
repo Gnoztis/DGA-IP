@@ -11,9 +11,6 @@ us.hpdaas.com
 eu.hpdaas.com
 downloads.hpdaas.com
 downloads.hpanalytics.net
-s3-us-west-2.amazonaws.com 
-cognito-identity.us-east-1.amazonaws.com
-kinesis.us-west-2.amazonaws.com
 context.skyhookwireless.com
 d7l6d3yk4tkv4.cloudfront.net
 dcefh8tp1pusz.cloudfront.net
