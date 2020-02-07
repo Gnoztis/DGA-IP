@@ -18,7 +18,6 @@ d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d37ju0xanoz6gh.cloudfront.net
 dev-multiscreen.samsung.com
-device-metrics-us.amazon.com
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
