@@ -141,3 +141,4 @@ www.adobe.com
 download.01.org
 vorboss.dl.sourceforge.net
 softwareupdate.vmware.com
+admdownload.adobe.com
