@@ -49,3 +49,4 @@ temp-rml-eu-prod.s3.eu-west-1.amazonaws.com
 vd.contents.prod.eu.s3.amazonaws.com
 vd.emp.prd.s3.amazonaws.com
 wetransfer-eu-prod-outgoing.s3.eu-west-1.amazonaws.com
+edhrec-json.s3.amazonaws.com

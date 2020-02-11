@@ -144,3 +144,4 @@ softwareupdate.vmware.com
 admdownload.adobe.com
 neo4j.org
 dl5.oo-software.com
+www.advanced-ip-scanner.com

@@ -66,3 +66,13 @@ ocsp.kaspersky.com
 trustlist.adobe.com
 isrg.trustid.ocsp.identrust.com
 crl.adobe.com
+ocsp.root-x1.letsencrypt.org
+cert.staging-x1.letsencrypt.org
+ocsp.int-x1.letsencrypt.org
+cert.int-x1.letsencrypt.org
+cert.stg-root-x1.letsencrypt.org
+cps.root-x1.letsencrypt.org
+cert.root-x1.letsencrypt.org
+revoked-isrgrootx1.letsencrypt.org
+expired-isrgrootx1.letsencrypt.org
+valid-isrgrootx1.letsencrypt.org
