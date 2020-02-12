@@ -40,7 +40,6 @@ relay-dc242902.net.anydesk.com
 relay-b8ca5412.net.anydesk.com
 relay-efebc622.net.anydesk.com
 relay-61e0b722.net.anydesk.com
-relay-78e70832.net.anydesk.com
 relay-43bda6d2.net.anydesk.com
 relay-b9f41fe2.net.anydesk.com
 relay-15a47ef2.net.anydesk.com
