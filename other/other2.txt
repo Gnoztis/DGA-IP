@@ -78,3 +78,6 @@ rbp.mxptint.net
 pixel.adlooxtracking.com
 solnishko-vl.ru
 lookomorie-fun.net
+api.dec.sitefinity.com
+r.bstatic.com
+adventori.com

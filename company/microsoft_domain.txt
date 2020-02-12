@@ -710,3 +710,4 @@ b-broker-uswe-01.broker.skype.com
 4d90d1e5a116b72dc46ce2ff4867151b.fp.measure.office.com
 3bd0159b9beba1158e03fd3ffc03bba8.fp.measure.office.com
 otf.msn.com
+finance.services.appex.bing.com
