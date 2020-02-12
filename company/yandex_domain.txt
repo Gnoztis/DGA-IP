@@ -72,3 +72,4 @@ smtp.yandex.com
 smtp.yandex.com.tr
 api.passport.yandex.ru
 ya.cc
+download.yandex.ru
