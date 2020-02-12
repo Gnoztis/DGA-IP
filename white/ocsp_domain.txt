@@ -77,3 +77,4 @@ revoked-isrgrootx1.letsencrypt.org
 expired-isrgrootx1.letsencrypt.org
 valid-isrgrootx1.letsencrypt.org
 certificates.intel.com
+pki.intel.com
