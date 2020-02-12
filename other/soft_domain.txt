@@ -112,7 +112,6 @@ reviews.adobe.io
 comments.adobe.io
 adobesearch.adobe.io
 dc-api.adobe.io
-cloud.acrobat.com
 files.acrobat.com
 notify.files.acrobat.com
 hbrt.adobe.com
@@ -131,13 +130,11 @@ static.echocdn.com
 p.typekit.net
 use.typekit.net
 bam.nr-data.net
-trustlist.adobe.com
 p13n.adobe.io
 pubcerts.licenses.adobe.com
 armmf.adobe.com
 ardownload.adobe.com
 acroipm2.adobe.com
-www.adobe.com
 download.01.org
 vorboss.dl.sourceforge.net
 softwareupdate.vmware.com
@@ -146,3 +143,4 @@ neo4j.org
 dl5.oo-software.com
 www.advanced-ip-scanner.com
 repo1.sea.innoscale.net
+repo1.dal.innoscale.net

@@ -169,6 +169,11 @@ vxvault.net
 welivesecurity.com
 alpha-license-dealer.ff.avast.com
 b4380882.vps18.u.avcdn.net
-g0679661.iavs9x.u.avast.com
 g5041154.iavs9x.u.avast.com
 h1745978.iavs9x.u.avast.com
+emupdate.avcdn.net
+freeav.downloads.pandasecurity.com
+d4479313.iavs9x.u.avast.com
+k8528219.iavs9x.u.avast.com
+b4380882.iavs9x.u.avast.com
+k9290131.iavs9x.u.avast.com
