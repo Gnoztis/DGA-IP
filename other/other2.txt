@@ -63,3 +63,4 @@ conductor.clicktale.net
 xn----8sbfkarmiepbjh5aj.xn--p1a
 arcteryx.com
 code.jquery.com
+jquery.org
