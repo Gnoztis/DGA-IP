@@ -713,3 +713,4 @@ otf.msn.com
 finance.services.appex.bing.com
 dc.services.visualstudio.com
 geover-prod.do.dsp.mp.microsoft.com
+config.messenger.msn.com
