@@ -716,3 +716,4 @@ geover-prod.do.dsp.mp.microsoft.com
 config.messenger.msn.com
 service.weather.microsoft.com
 client.wns.windows.com
+r20swj13mr.microsoft.com
