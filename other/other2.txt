@@ -134,3 +134,6 @@ viadata.store
 cdn.carrotquest.io
 fdz.flashtalking.com
 app.getresponse.com
+accdn.lpsnmedia.net
+lpcdn.lpsnmedia.net
+lptag.liveperson.net

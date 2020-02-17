@@ -717,3 +717,4 @@ config.messenger.msn.com
 service.weather.microsoft.com
 client.wns.windows.com
 r20swj13mr.microsoft.com
+api.bing.com
