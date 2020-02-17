@@ -135,3 +135,4 @@ rtb.viadata.store
 static.viadata.store
 viadata.store
 cdn.carrotquest.io
+fdz.flashtalking.com
