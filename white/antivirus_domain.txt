@@ -178,3 +178,4 @@ k8528219.iavs9x.u.avast.com
 b4380882.iavs9x.u.avast.com
 k9290131.iavs9x.u.avast.com
 v2.auc.avira.com
+threatconnect.com
