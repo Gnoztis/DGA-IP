@@ -21,7 +21,6 @@ cdp.thawte.com
 crl.comodoca4.com
 ocsp.trustwave.com
 certificates.intel.com
-certificates.intel.com.edgesuite.net
 crl.quovadisglobal.com
 crl.verisign.com
 crl-symcprod.digicert.com
@@ -40,7 +39,6 @@ certs.godaddy.com
 ocsp.rootg2.amazontrust.com
 crl.certum.pl
 ocsp.int-x3.letsencrypt.org
-ocsp.int-x3.letsencrypt.org.edgesuite.net
 a771.dscq.akamai.net
 ocsp.dcocsp.cn
 ocsp2.globalsign.com

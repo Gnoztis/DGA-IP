@@ -22,3 +22,15 @@ wac-cdn.atlassian.com
 api-private.atlassian.com
 atl-global.atlassian.com
 partnerdirectory.atlassian.com
+fisheye1.atlassian.com
+pillar03.atlassian.com
+pillar05.atlassian.com
+pillar06.atlassian.com
+pillar07.atlassian.com
+api.media.atlassian.com
+api-origin.media.atlassian.com
+ja.atlassian.com
+jira.atlassian.com
+experts-jira.atlassian.com
+dr-wac.atlassian.com
+id.atlassian.com

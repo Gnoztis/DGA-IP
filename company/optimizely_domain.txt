@@ -1,0 +1,7 @@
+a1096093.cdn.optimizely.com
+logx.optimizely.com
+cdn.optimizely.com
+tapi.optimizely.com
+cdn2.optimizely.com
+log3.optimizely.com
+cdn3.optimizely.com
