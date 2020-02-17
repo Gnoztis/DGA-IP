@@ -74,8 +74,15 @@ cert.root-x1.letsencrypt.org
 revoked-isrgrootx1.letsencrypt.org
 expired-isrgrootx1.letsencrypt.org
 valid-isrgrootx1.letsencrypt.org
-certificates.intel.com
 pki.intel.com
 ocsp.godaddy.com
 ocsp.quovadisglobal.com
 ev.ocsp.quovadisglobal.com
+iavs9x.u.avast.com
+shepherd.ff.avast.com
+b1477563.iavs9x.u.avast.com
+t7758057.vps18tiny.u.avcdn.net
+alpha-license-dealer.ff.avast.com
+alpha-iqs.ff.avast.com
+v7event.stats.avast.com
+ipm-provider.ff.avast.com
