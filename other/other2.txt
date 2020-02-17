@@ -142,3 +142,4 @@ report-uri.highwebmedia.com
 medapteka.by
 p.skimresources.com
 skimresources.com
+ads.yahoo.com
