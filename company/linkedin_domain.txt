@@ -1,6 +1,5 @@
 linkedin.com
 px.ads.linkedin.com
-DNS requests
 static-exp1.licdn.com
 ocsp.pki.goog
 content.linkedin.com

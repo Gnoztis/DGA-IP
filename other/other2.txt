@@ -129,3 +129,9 @@ www.giraff.io
 cdn3.caltat.com
 sonar.semantiqo.com
 adsteroid.pro
+www.viadata.com
+logs.viadata.store
+rtb.viadata.store
+static.viadata.store
+viadata.store
+cdn.carrotquest.io
