@@ -587,3 +587,13 @@ d4479313.vps18.u.avcdn.net
 overseer.tools.avcdn.net
 b4380882.vps18.u.avcdn.net
 emupdate.avcdn.net
+avg.mac.avcdn.net
+avast.mac.avcdn.net
+nuistatic.avcdn.net
+avg.ustab.d.avcdn.net
+avast.ustab.d.avcdn.net
+2favast.ustab.d.avcdn.net
+trackoff.d.avcdn.net
+drup.d.avcdn.net
+wtu.d.avcdn.net
+shepherd.avcdn.net
