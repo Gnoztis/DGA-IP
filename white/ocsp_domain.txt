@@ -80,3 +80,4 @@ certificates.intel.com
 pki.intel.com
 ocsp.godaddy.com
 ocsp.quovadisglobal.com
+ev.ocsp.quovadisglobal.com
