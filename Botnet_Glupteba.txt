@@ -181,3 +181,13 @@ cb686fd304c0e7ae7bd94e661cc985f5cb38a207
 sleepingcontrol.com
 venoxcontrol.com
 okonewacon.com
+#####################################################
+8e5026716d00b92d2b57cfc8dd24b2e558a8f629c12f71351717feb4fd03a852
+fed2757e651c56bff9b7e7ec3f4bfb7ca0128cd3
+b8d4dc930b1157dddeb1aa730ca4afbe
+okonewacon.com
+venoxcontrol.com
+blackempirebuild.com
+104.26.14.130
+104.28.25.172
+194.4.56.252
