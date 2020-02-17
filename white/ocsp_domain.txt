@@ -79,3 +79,4 @@ valid-isrgrootx1.letsencrypt.org
 certificates.intel.com
 pki.intel.com
 ocsp.godaddy.com
+ocsp.quovadisglobal.com
