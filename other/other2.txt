@@ -137,3 +137,4 @@ app.getresponse.com
 accdn.lpsnmedia.net
 lpcdn.lpsnmedia.net
 lptag.liveperson.net
+r.dlx.addthis.com
