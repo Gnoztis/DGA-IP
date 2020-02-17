@@ -138,3 +138,4 @@ accdn.lpsnmedia.net
 lpcdn.lpsnmedia.net
 lptag.liveperson.net
 r.dlx.addthis.com
+report-uri.highwebmedia.com
