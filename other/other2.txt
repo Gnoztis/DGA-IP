@@ -79,7 +79,6 @@ pixel.adlooxtracking.com
 solnishko-vl.ru
 lookomorie-fun.net
 api.dec.sitefinity.com
-r.bstatic.com
 adventori.com
 men-haircutstyle.net
 img30.360buyimg.com
@@ -114,7 +113,6 @@ cm.everesttech.net
 cdn.push.world
 pixel.kost.tv
 xml.realtime-bid.com
-pixel.kost.tv
 static.kost.tv
 v.kost.tv
 lux-star.ru
@@ -123,7 +121,6 @@ myhappy-news.com
 aspekt.pro
 36gp.by
 ggptknhp.by
-v.kost.tv
 www.dom-7ya.ru
 www.giraff.io
 cdn3.caltat.com
@@ -136,3 +133,4 @@ static.viadata.store
 viadata.store
 cdn.carrotquest.io
 fdz.flashtalking.com
+app.getresponse.com
