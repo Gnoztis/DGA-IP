@@ -36,13 +36,11 @@ settings-win.data.microsoft.com
 v10.events.data.microsoft.com 
 ppa.launchpad.net
 2.dl.delivery.mp.microsoft.com
-2.tlu.dl.delivery.mp.microsoft.com
 msftsrvcs.vo.llnwd.net
 3.dl.delivery.mp.microsoft.com
 3.tlu.dl.delivery.mp.microsoft.com
 definitionupdates.microsoft.com
 fe2.update.microsoft.com
-fe3.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 sls.update.microsoft.com
