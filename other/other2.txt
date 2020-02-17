@@ -140,3 +140,5 @@ lptag.liveperson.net
 r.dlx.addthis.com
 report-uri.highwebmedia.com
 medapteka.by
+p.skimresources.com
+skimresources.com
