@@ -79,7 +79,6 @@ sf.symcd.com
 pixel.quantserve.com
 secure.quantserve.com
 i.ebayimg.com
-acroipm.adobe.com
 proglazki.ru
 safe-salon.ru
 cdnjs.cloudflare.com
@@ -1510,7 +1509,7 @@ s4.ru.i.alawar.ru
 s15.ru.i.alawar.ru
 s10.ru.i.alawar.ru
 am10.mirror.alawar.com
-ru.mirror.alawar.com.
+ru.mirror.alawar.com
 ua5.mirror.alawar.com
 ru.mirror.alawar.com
 am03-1.mirror.alawar.com
@@ -1519,9 +1518,6 @@ lat02.mirror.alawar.com
 partner.mirror.alawar.com
 am16.mirror.alawar.com
 kz01.mirror.alawar.com
-adobe.demdex.net
-dpm.demdex.net
-demdex.net
 monsalvat.globalfolio.net
 globalfolio.net
 www.italia-mia.globalfolio.net
