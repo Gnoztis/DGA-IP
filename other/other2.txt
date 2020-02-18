@@ -196,7 +196,6 @@ cdn14.img22.ria.ru
 cdn15.img22.ria.ru
 photo-sochi2014.beta2.ria.ru
 t.beta2.ria.ru
-a.ria.ru
 pda.ria.ru
 img.crimea.ria.ru
 opendata.ria.ru
@@ -259,3 +258,6 @@ www.smartcity.ria.ru
 realty.ria.ru
 stat.sputnik.ru
 sputnik.ru
+yandex-dmp-sync.rutarget.ru
+stat.media
+w.uptolike.com
