@@ -268,3 +268,13 @@ ps.eyeota.net
 begun-sync.rutarget.ru
 yandex-dmp-sync.rutarget.ru
 api.weather.com
+log2.musical.ly
+nep.advangelists.com
+cdn01.nativeroll.tv
+zestrest.ru
+rtb.mfadsrvr.com
+gb1.ru
+ad.admitad.com
+history-doc.ru
+files.jivosite.com
+jivosite.com
