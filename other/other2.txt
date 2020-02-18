@@ -278,3 +278,4 @@ ad.admitad.com
 history-doc.ru
 files.jivosite.com
 jivosite.com
+assets.squarespace.com
