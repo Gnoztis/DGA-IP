@@ -265,3 +265,6 @@ casalemedia.com
 cweruni.fun
 inv-nets.admixer.net
 ps.eyeota.net
+begun-sync.rutarget.ru
+yandex-dmp-sync.rutarget.ru
+api.weather.com
