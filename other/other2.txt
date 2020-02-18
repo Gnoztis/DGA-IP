@@ -279,3 +279,5 @@ history-doc.ru
 files.jivosite.com
 jivosite.com
 assets.squarespace.com
+secure.gravatar.com
+gravatar.com
