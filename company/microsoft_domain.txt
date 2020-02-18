@@ -719,3 +719,4 @@ client.wns.windows.com
 r20swj13mr.microsoft.com
 api.bing.com
 fpc.msedge.net
+upload.fp.measure.office.com
