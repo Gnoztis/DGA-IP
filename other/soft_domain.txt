@@ -39,12 +39,10 @@ ccleaner.tools.avcdn.net
 emupdate.avcdn.net
 www.adobe.com
 www.videolan.org
-cdn.ghostery.net
 files.freshoffice.ru
 www.linuxmint.com
 defsmeta.com
 www.defsmeta.com
-cdn.ghostery.com
 cdn.adblockcdn.com
 omprussia.ru
 apps.corel.com
@@ -62,7 +60,6 @@ sergeistrelec.ru
 mirror.linux-ia64.org
 www.startisback.com
 dbdm-events.mybluemix.net
-cdn2.ghostery.com
 update.filezilla-project.org
 dev.veeam.com
 netix.dl.sourceforge.net
@@ -73,7 +70,6 @@ conf.goforandroid.com
 sebz.goforandroid.com
 speeddials.opera.com
 www.burnaware.com
-cmp-cdn.ghostery.com
 ispsystem.com
 www.ispsystem.com
 www.ispsystem.ru

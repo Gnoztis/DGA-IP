@@ -24,7 +24,6 @@ so.rlcdn.com
 sync.jivox.com
 www.mesport.ru
 api.cloudleadia.com
-cdn.ghostery.net
 vlschool38.ucoz.net
 a.sportradarserving.com
 static.adsafeprotected.com
@@ -261,3 +260,6 @@ sputnik.ru
 yandex-dmp-sync.rutarget.ru
 stat.media
 w.uptolike.com
+as-sec.casalemedia.com
+casalemedia.com
+cweruni.fun
