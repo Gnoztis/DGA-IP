@@ -281,3 +281,8 @@ jivosite.com
 assets.squarespace.com
 secure.gravatar.com
 gravatar.com
+data.24smi.net
+img.24smi.net
+jsn.24smi.net
+static.24smi.net
+24smi.net
