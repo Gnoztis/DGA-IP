@@ -238,3 +238,15 @@ ec896e7670d0b73042d253f9aa86a28f0e65892b
 eas1tlink.xyz
 217.29.57.164
 http://eas1tlink.xyz/index.php
+
+
+
+
+#AZORult
+http://82.146.48.98/c.exe
+80aa60c0f067c47b565cf06dbf27f831b55d574f66456763dde8ba111fcf32ed
+1e6483966a8d42321fe3265c7518a4909636de53
+37a36e175dfeebbfd3a4d1dacebf0b32
+hustdomains.host
+193.178.169.71
+http://hustdomains.host/index.php
