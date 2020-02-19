@@ -367,3 +367,6 @@ r.casalemedia.com
 account.habr.com
 mpraktik.ru
 p.tvpixel.com
+www.aetalon.ru
+ww.vssot.aetalon.ru
+aetalon.ru
