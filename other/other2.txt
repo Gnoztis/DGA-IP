@@ -370,3 +370,4 @@ p.tvpixel.com
 www.aetalon.ru
 ww.vssot.aetalon.ru
 aetalon.ru
+stat.tildacdn.com
