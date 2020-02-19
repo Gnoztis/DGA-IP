@@ -394,7 +394,6 @@ kley-ka.yandex.ru
 ole4ka.yandex.ru
 marko6ka.yandex.ru
 radiokuchka.yandex.ru
-metrika.yandex.ru
 api-metrika.yandex.ru
 beta.api-metrika.yandex.ru
 beta.metrika.yandex.ru
@@ -440,7 +439,6 @@ genedita.yandex.ru
 lenta.yandex.ru
 pda.lenta.yandex.ru
 m.lenta.yandex.ru
-rabota.yandex.ru
 gramota.yandex.ru
 crypta.yandex.ru
 info-esta.yandex.ru
@@ -508,7 +506,7 @@ niic.yandex.ru
 pkic.yandex.ru
 yapic.yandex.ru
 hrompic.yandex.ru
-music.yandex.ru
 suggest-music.yandex.ru
-mc.yandex.ru
-mc.yandex.ru
+download-distribution.cdn.yandex.ru
+crls.yandex.net
+cdn.yandex.net
