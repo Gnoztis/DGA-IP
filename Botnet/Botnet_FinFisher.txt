@@ -1,7 +1,1 @@
-78.142.29.154
-/d/d.png
-/x86/k.txt
-w.gemlab.top
-http://78.142.29.154/d/d.png
-http://w.gemlab.top/x86/k.txt
-http://w.gemlab.top/x64/k.txt
+/search?q=my+ip+address&nord=1
