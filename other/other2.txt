@@ -400,3 +400,4 @@ wdesk.ru
 flocktory.com
 sync.users-api.com
 sinoptik.ua
+gitlab.com
