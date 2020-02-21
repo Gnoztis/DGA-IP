@@ -148,3 +148,6 @@ welivesecurity.com
 freeav.downloads.pandasecurity.com
 v2.auc.avira.com
 threatconnect.com
+any.run
+ANY.RUN
+id-ransomware.ru
