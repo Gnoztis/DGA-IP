@@ -86,3 +86,4 @@ getip.pw
 api.ipaddress.com
 ipconfig.cf
 ip.rvpn-api.ws
+www.geoplugin.net
