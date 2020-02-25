@@ -402,3 +402,16 @@ sync.users-api.com
 sinoptik.ua
 gitlab.com
 aptekirls.ru
+primpress.ru
+gms-world.co
+static-eu.insales.ru
+z.lenmit.com
+reformal.ru
+log.reformal.ru
+media.reformal.ru
+tab.reformal.ru
+z.lenmit.com
+stilmetdv.ru
+r.casalemedia.com
+ssum-sec.casalemedia.com
+dsum-sec.casalemedia.com
