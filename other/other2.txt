@@ -454,3 +454,4 @@ api-s2s.taboola.com
 images.taboola.com
 trc.taboola.com
 cdn.taboola.com
+fregat2.ru
