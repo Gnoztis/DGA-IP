@@ -151,3 +151,4 @@ threatconnect.com
 any.run
 ANY.RUN
 id-ransomware.ru
+www.malware-traffic-analysis.net
