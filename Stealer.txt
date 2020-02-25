@@ -546,3 +546,10 @@ http://silverduckdesigns.co.uk/wp-content/uploads/2018/07/elb.exe
 890339fde0e98d97c8c9d0543cc1dc79
 smtp.wtsele.net
 208.91.199.224
+
+http://digitalcurrencyexchane.com/BTC/Ripples.exe
+ff4ac1129d6aeccb8866211078c23a016e28cd32310c4ca0ff59b682039a859a
+160d0dd4aa21c78cbc36e045ca855ea6ca7d4103
+13cf6262bac8372659fe210c1f9cd2ca
+mail.aqua-pro.us
+65.254.248.220
