@@ -453,3 +453,4 @@ ut9.rktch.com
 api-s2s.taboola.com
 images.taboola.com
 trc.taboola.com
+cdn.taboola.com
