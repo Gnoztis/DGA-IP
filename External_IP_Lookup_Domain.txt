@@ -85,3 +85,4 @@ www.shmyip.com
 getip.pw
 api.ipaddress.com
 ipconfig.cf
+ip.rvpn-api.ws
