@@ -175,3 +175,4 @@ mx.2gis.com
 smtp.live.com
 mx02.nicmail.ru
 mx01.nicmail.ru
+imap.mail.com
