@@ -113,3 +113,4 @@ dl5.oo-software.com
 www.advanced-ip-scanner.com
 repo1.sea.innoscale.net
 repo1.dal.innoscale.net
+download.gfe.nvidia.com
