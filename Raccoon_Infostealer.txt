@@ -17,7 +17,6 @@ http://35.228.79.212
 /file_handler/file.php
 /gate/log.php
 
-
 http://satanaupdate4.me/test/eu/2.exe
 486ff5919b729c2315557be4ff9955668dd04a4439c338a5d1949350d8da350c
 5ff1c0d47a91800a3bb4ea5a71163f6d13143b62
@@ -90,3 +89,14 @@ http://35.228.183.206/gate/libs.zip
 http://35.228.183.206/gate/sqlite3.dll
 http://pcbooster.pro/processlasso.exe
 http://pcbooster.pro/iploggger.exe
+################################################################
+http://109.201.143.181/1B5F/raccc_1B5F.exe
+4478328408cf3c38b356eed6e86171a5c879663d79867c2b55ec8a0538d7588d
+904afe59f6438848be96fd26fdeab01267070d25
+28c643a1f69f9fca9481a4bc9f3f38f3
+109.201.143.181
+35.228.134.218
+http://35.228.134.218/gate/log.php
+http://35.228.134.218/file_handler/file.php?hash=c936135bd2abfde6cc4113a3146d47600de80845&js=8f552ce2b207ad733ad7934702d35e581bdf803c&callback=http://35.228.134.218/gate
+http://35.228.134.218/gate/sqlite3.dll
+http://35.228.134.218/gate/libs.zip
