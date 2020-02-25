@@ -100,3 +100,6 @@ http://35.228.134.218/gate/log.php
 http://35.228.134.218/file_handler/file.php?hash=c936135bd2abfde6cc4113a3146d47600de80845&js=8f552ce2b207ad733ad7934702d35e581bdf803c&callback=http://35.228.134.218/gate
 http://35.228.134.218/gate/sqlite3.dll
 http://35.228.134.218/gate/libs.zip
+
+a57e1f3217b993476c594570095d28b6c287731a005325e5f64a332a86cb7878
+http://35.189.105.242/gate
