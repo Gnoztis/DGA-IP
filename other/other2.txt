@@ -415,3 +415,8 @@ stilmetdv.ru
 r.casalemedia.com
 ssum-sec.casalemedia.com
 dsum-sec.casalemedia.com
+js.appboycdn.com
+a.disquscdn.com
+ssum-sec.casalemedia.com
+ssum-sec.casalemedia.com
+trc.kissmetrics.com
