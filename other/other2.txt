@@ -445,3 +445,6 @@ adtrack.adleadevent.com
 urfac.ru
 takeyourprizesnow3.life
 counter.24smi.info
+cdn.taboola.com
+images.taboola.com
+trc.taboola.com
