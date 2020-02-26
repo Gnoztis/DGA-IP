@@ -166,3 +166,5 @@ electrum.coineuskal.com
 electrumx.ddns.net
 esx.geekhosters.com
 bitcoin.alephnullptr.net
+electrum.srvmin.network
+gall.pro
