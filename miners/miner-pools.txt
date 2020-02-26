@@ -170,3 +170,4 @@ electrum.coineuskal.com
 electrum.coineuskal.com
 0.btc.dev
 kirsche.emzy.de
+2ex.digitaleveryware.com
