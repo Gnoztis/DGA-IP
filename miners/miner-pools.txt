@@ -168,3 +168,4 @@ esx.geekhosters.com
 bitcoin.alephnullptr.net
 electrum.srvmin.network
 gall.pro
+satoshi.fan
