@@ -464,3 +464,7 @@ http://cheapmusic.info/cloudnet.exe
 cc9aa673b09d722c801fe0d9ad9837eb40ff4a146e4c7a325c9b8e7217470306
 9952386160eebbb3439a777ad6c7c65a23ba7ab7
 a8ad74b7930e43d27409db5e70c0e9cc
+
+http://cdndownload.live/ssocks.exe
+http://46.105.227.213:25/s.php
+http://bestblues.tech/app/app.exe
