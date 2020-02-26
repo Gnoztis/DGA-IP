@@ -455,3 +455,4 @@ images.taboola.com
 trc.taboola.com
 cdn.taboola.com
 fregat2.ru
+ib.3lift.com
