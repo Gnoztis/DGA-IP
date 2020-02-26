@@ -87,3 +87,8 @@ api.ipaddress.com
 ipconfig.cf
 ip.rvpn-api.ws
 www.geoplugin.net
+ip.adspy.mobi
+ip2.adspy.mobi
+ip3.adspy.mobi
+ip4.adspy.mobi
+ip5.adspy.mobi
