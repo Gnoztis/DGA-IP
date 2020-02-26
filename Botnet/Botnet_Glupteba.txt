@@ -468,3 +468,7 @@ a8ad74b7930e43d27409db5e70c0e9cc
 http://cdndownload.live/ssocks.exe
 http://46.105.227.213:25/s.php
 http://bestblues.tech/app/app.exe
+
+95.179.177.20
+91.121.223.152
+46.105.227.213
