@@ -460,3 +460,4 @@ assets3.insales.ru
 sync.srv.stackadapt.com
 kammiac.ru
 www.kammiac.ru
+www.pirogov-center.ru
