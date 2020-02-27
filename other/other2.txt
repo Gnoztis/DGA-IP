@@ -468,3 +468,4 @@ t.contentsquare.net
 static.securedtouch.com
 t.flix360.com
 sanatel.kz
+x.dlx.addthis.com
