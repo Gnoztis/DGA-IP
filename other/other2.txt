@@ -461,3 +461,4 @@ sync.srv.stackadapt.com
 kammiac.ru
 www.kammiac.ru
 www.pirogov-center.ru
+maxkorzh.by
