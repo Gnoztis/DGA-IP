@@ -147,3 +147,4 @@ orpheus.sc.intel.com
 webrtc.intel.com
 intelewc.intel.com
 download.intel.com
+www91.intel.ru
