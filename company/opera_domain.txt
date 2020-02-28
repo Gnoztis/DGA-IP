@@ -170,3 +170,5 @@ sd-suggestions.operacdn.com
 gx-content.operacdn.com
 flow.operacdn.com
 www.operacdn.com
+resolver1.opendns.com
+resolver2.opendns.com
