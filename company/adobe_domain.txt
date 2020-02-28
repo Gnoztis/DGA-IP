@@ -93,3 +93,4 @@ ardownload.adobe.com
 acroipm2.adobe.com
 admdownload.adobe.com
 adobe.com
+adobeid-na1.services.adobe.com
