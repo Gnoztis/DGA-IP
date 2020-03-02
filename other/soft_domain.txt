@@ -119,3 +119,5 @@ notepad-plus-plus.org
 version.unchecky.com
 unchecky.com
 pkgautoupdate.synology.com
+clientupdater.raptr.com
+raptr.com
