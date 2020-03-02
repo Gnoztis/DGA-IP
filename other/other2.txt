@@ -508,3 +508,4 @@ gdetest.ru
 uraltov0.beget.tech
 tricolortvmag.ru
 hit2.hotlog.ru
+gmpg.org
