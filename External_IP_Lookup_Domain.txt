@@ -93,3 +93,4 @@ ip3.adspy.mobi
 ip4.adspy.mobi
 ip5.adspy.mobi
 iplis.ru
+www.myip.ch
