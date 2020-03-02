@@ -118,3 +118,4 @@ download.onlyoffice.com
 notepad-plus-plus.org
 version.unchecky.com
 unchecky.com
+pkgautoupdate.synology.com
