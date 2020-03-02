@@ -116,3 +116,5 @@ repo1.dal.innoscale.net
 download.gfe.nvidia.com
 download.onlyoffice.com
 notepad-plus-plus.org
+version.unchecky.com
+unchecky.com
