@@ -623,3 +623,4 @@ sendez.ru
 mamba.ru
 roycechocolate.ru
 suicreative.com
+public.slidesharecdn.com
