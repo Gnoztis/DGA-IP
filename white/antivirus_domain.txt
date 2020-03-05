@@ -155,3 +155,4 @@ www.malware-traffic-analysis.net
 paste.cryptolaemus.com
 www.virustotal.com
 osint.bambenekconsulting.com
+www.avast.com
