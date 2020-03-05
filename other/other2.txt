@@ -619,3 +619,5 @@ beacon.walmart.com
 scienceblogs.com
 www.paketoff.ru
 love.smsonline.ru
+sendez.ru
+mamba.ru
