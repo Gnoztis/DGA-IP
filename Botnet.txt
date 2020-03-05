@@ -3125,3 +3125,11 @@ cleaner-software.com
 66.70.247.216
 http://cleaner-software.com/stopor.exe
 http://66.70.247.216/index.php
+
+
+#####
+http://198.23.130.69/images/redcar.png	
+f25156a51328b49f861df71e2bb14b2f41878e97becec423bac5a40988454c3b	
+522b655cdb44f82b65f9e4fa4c99fcd9bed94c7d	
+772abecffc05908071bbc57f767e0ef8	
+198.15.119.121	
