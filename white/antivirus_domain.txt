@@ -156,3 +156,11 @@ paste.cryptolaemus.com
 www.virustotal.com
 osint.bambenekconsulting.com
 www.avast.com
+ksn-crypto-tcert-geo.kas-labs.com
+ksn-tpcert-1.kaspersky-labs.com
+ksn-crypto-tcert-geo.kaspersky-labs.com
+ksn-tcert-1.kaspersky-labs.com
+ksn-tcert-geo.kaspersky-labs.com
+ksn-tcert.geo.kaspersky.com
+ksn-crypto-tcert.geo.kaspersky.com
+ksn-crypto-tcert.geo.labkas.com
