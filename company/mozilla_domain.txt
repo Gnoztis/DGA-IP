@@ -163,3 +163,4 @@ mozilla.ca
 mozilla.fr
 profile.accounts.firefox.com
 blocklists.settings.services.mozilla.com
+ftp.mozilla.org

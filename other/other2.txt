@@ -576,3 +576,9 @@ globalstats.hotlog.ru
 hit.hotlog.ru
 top1000ru.hotlog.ru
 www.hotlog.ru
+www.pagliaibus.com
+public-api.uxfeedback.ru
+ak1s.abmr.net
+r.casalemedia.com
+white55.ru
+bestwebservice.ru
