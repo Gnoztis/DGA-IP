@@ -20,7 +20,7 @@ ddae2b31b8bd170957dd5efc46bd5e9414181277fde2c95c8e792ee762433ebd
 5f24c41aa68951f744c9204344d2cae0f276e57ddd91442e02d1911d7c16d138
 6af150fdbc685171ad222648a6011fa77084b4f26c1c85106f896b98efa24043
 20328b1f169b1edeef38853dafbbacfdac53c66f7f1dd62f387091bedebfd497
-insiderppe.cloudapp[.]net
-https://jaquetas01.cordenadorltda[.]org
-https://services.halapar[.]org
+insiderppe.cloudapp.net
+https://jaquetas01.cordenadorltda.org
+https://services.halapar.org
 http://ftpthedocgrp.com/backup.msi
