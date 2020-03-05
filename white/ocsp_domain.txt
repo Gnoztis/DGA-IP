@@ -86,3 +86,4 @@ alpha-license-dealer.ff.avast.com
 alpha-iqs.ff.avast.com
 v7event.stats.avast.com
 ipm-provider.ff.avast.com
+scrootca2.ocsp.secomtrust.net
