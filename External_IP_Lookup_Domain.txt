@@ -95,3 +95,4 @@ ip5.adspy.mobi
 iplis.ru
 www.myip.ch
 telize.com
+whatismyip.akamai.com
