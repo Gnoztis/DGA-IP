@@ -718,3 +718,6 @@ d.agkn.com
 i.kissmetrics.com
 cdn.discordapp.com
 2gis.it
+s.zmctrack.net
+files.jivosite.com
+px.spiceworks.com
