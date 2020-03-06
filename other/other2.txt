@@ -717,3 +717,4 @@ mrproddisup.com
 d.agkn.com
 i.kissmetrics.com
 cdn.discordapp.com
+2gis.it
