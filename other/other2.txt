@@ -663,3 +663,4 @@ dsum-sec.casalemedia.com
 pa.tns-ua.com
 source.mmi.bemobile.ua
 znfoto.ru
+www.icrc.org
