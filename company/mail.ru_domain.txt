@@ -89,3 +89,4 @@ cloclo18.cldmail.ru
 cloud.mail.ru
 cspreport.mail.ru
 2929482088.webagent.mail.ru
+smtp.mail.com
