@@ -627,3 +627,6 @@ public.slidesharecdn.com
 www.slideshare.net
 macdailynews.com
 drah7iczdw1tu.cloudfront.net
+api.dmcdn.net
+s1.dmcdn.net
+s2.dmcdn.net
