@@ -650,3 +650,4 @@ cdn.lr-ingest.io
 ru.iherb.com
 handm.by
 hit21.hotlog.ru
+r.casalemedia.com
