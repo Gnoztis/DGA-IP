@@ -683,3 +683,4 @@ tracking.channelsight.com
 8host.api.oneall.com
 api.oneall.com
 www.xn--90acqjv.xn--p1ai
+turkru.tv
