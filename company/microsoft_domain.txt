@@ -1442,3 +1442,4 @@ wscont2.apps.microsoft.com
 www.windowssearch.com
 x.urs.microsoft.com
 xml.login.live.com
+fp-as.azureedge.net
