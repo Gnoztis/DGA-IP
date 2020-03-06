@@ -63,7 +63,6 @@ kb2.adobe.com
 asa-sanjose-ext-c2.adobe.com
 ardownload2.adobe.com
 airdownload2.adobe.com
-adobe.demdex.net
 dpm.demdex.net
 demdex.net
 acroipm.adobe.com
@@ -79,8 +78,6 @@ dc-api.adobe.io
 files.acrobat.com
 notify.files.acrobat.com
 hbrt.adobe.com
-adobe.demdex.net
-sstats.adobe.com
 createpdf.acrobat.com
 fillsign.acrobat.com
 upload2.files.acrobat.com
@@ -92,5 +89,5 @@ armmf.adobe.com
 ardownload.adobe.com
 acroipm2.adobe.com
 admdownload.adobe.com
-adobe.com
 adobeid-na1.services.adobe.com
+genuine.adobe.com
