@@ -9,3 +9,5 @@ wxanalytics.ru
 0f93142998d1c0dddcf008b167f9611e0fc46539f50a35faf8266d71d31ad3e6
 0fffda2d0105f10690d1989859deae3d50287474534649605a320f078616d658
 148c4618e14a3c30f73dd6f910df6999ea4be2e32818f3747bdae03c175b7c48
+http://wxanalytics.ru/net.exe
+http://wxanalytics.ru/net.exe.config
