@@ -749,3 +749,6 @@ comment-cdn.9gag.com
 mytoys.ru
 knitt.net
 counter.insales.ru
+gsbelarus.com
+dz2cdn2.dzone.com
+dzone.com
