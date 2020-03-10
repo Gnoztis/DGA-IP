@@ -54,3 +54,4 @@ automate-prod.s3.amazonaws.com
 edhrec-json.s3.amazonaws.com
 html-cntnt.s3.us-east-2.amazonaws.com
 tt-sl.s3-us-west-2.amazonaws.com
+dgm-prd-euw1-log.s3.amazonaws.com
