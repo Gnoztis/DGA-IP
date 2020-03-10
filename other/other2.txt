@@ -754,3 +754,5 @@ dz2cdn2.dzone.com
 dzone.com
 spas01.ru
 dt4oxny0f90is.cloudfront.net
+settings.crashlytics.com
+e.crashlytics.com
