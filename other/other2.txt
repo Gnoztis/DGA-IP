@@ -901,3 +901,4 @@ fkurf.ru
 api.textback.io
 widget.textback.io
 cbr.ru
+mega-stars.ru
