@@ -874,18 +874,13 @@ troitskayakseniia.ru
 www.cactofili.org
 media-gov.ru
 dsp.mppmnetwork.com
-as-sec.casalemedia.com
-dsum-sec.casalemedia.com
-r.casalemedia.com
 prikolnovosti.com
 byuro-perevozok.ru
 ace.kodeks.net
 mail.kodeks.ru
 kodeks.net
 d22xmn10vbouk4.cloudfront.net
-dt4oxny0f90is.cloudfront.net
 europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net
-sinref.ru
 stat.clickfrog.ru
 cdn.adlook.me
 my.appcues.com
@@ -893,7 +888,6 @@ lenizdat.ru
 js.intercomcdn.com
 radiology-diagnos.ru
 myglass.in.ua
-cdn01.nativeroll.tv
 bluescreenview.ru
 gerdoctor.ru
 cdn.bootcss.com
@@ -904,3 +898,6 @@ cbr.ru
 mega-stars.ru
 remontka.pro
 www.ifias.ru
+kursach37.com
+general-info.ru
+vitams.ru
