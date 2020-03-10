@@ -765,3 +765,8 @@ images-ext-2.discordapp.net
 media.discordapp.net
 images-ext-1.discordapp.net
 xn--80aaah3bbycgid5m.xn--p1ai
+sibautomation.com
+farm.plista.com
+plista.com
+d42uirglykmjv.cloudfront.net
+rtb.adentifi.com
