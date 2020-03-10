@@ -892,3 +892,4 @@ my.appcues.com
 lenizdat.ru
 js.intercomcdn.com
 radiology-diagnos.ru
+myglass.in.ua
