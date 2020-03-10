@@ -13,7 +13,6 @@ api2.musical.ly
 api2-t2.musical.ly
 api2-16.musical.ly
 imapi-16.musical.ly
-dm16.musical.ly
 v16.musical.ly
 api2-19.musical.ly
 api2-16-h2-useast2a.musical.ly
@@ -26,7 +25,6 @@ gecko-va.musical.ly
 sdfp-va.musical.ly
 music.musical.ly
 api-s1-quic.musical.ly
-api2-16-h2-eagle.musical.ly
 api2-19-h2-eagle.musical.ly
 live.musical.ly
 log.musical.ly
