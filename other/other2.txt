@@ -757,3 +757,10 @@ dt4oxny0f90is.cloudfront.net
 settings.crashlytics.com
 e.crashlytics.com
 app.adjust.com
+cdn.discordapp.com
+discordapp.com
+dl.discordapp.net
+gateway.discord.gg
+images-ext-2.discordapp.net
+media.discordapp.net
+images-ext-1.discordapp.net
