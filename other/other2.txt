@@ -898,3 +898,5 @@ bluescreenview.ru
 gerdoctor.ru
 cdn.bootcss.com
 fkurf.ru
+api.textback.io
+widget.textback.io
