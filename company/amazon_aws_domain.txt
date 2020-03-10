@@ -52,3 +52,5 @@ wetransfer-eu-prod-outgoing.s3.eu-west-1.amazonaws.com
 edhrec-json.s3.amazonaws.com
 automate-prod.s3.amazonaws.com
 edhrec-json.s3.amazonaws.com
+html-cntnt.s3.us-east-2.amazonaws.com
+tt-sl.s3-us-west-2.amazonaws.com
