@@ -247,3 +247,7 @@ xiaomi.ru.aliexpress.com
 ynuf.alibaba.com
 ynuf.alipay.com
 yumfeel.aliexpress.com
+click.alibaba.com
+offer.alibaba.com
+abtest.alibaba.com
+fourier.alibaba.com
