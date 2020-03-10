@@ -611,3 +611,4 @@ wtu.d.avcdn.net
 shepherd.avcdn.net
 emupdate.avcdn.net
 hns.ff.avast.com
+sp-8f237ea3.vps-v4.u.avast.com
