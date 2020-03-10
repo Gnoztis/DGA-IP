@@ -896,3 +896,5 @@ myglass.in.ua
 cdn01.nativeroll.tv
 bluescreenview.ru
 gerdoctor.ru
+cdn.bootcss.com
+fkurf.ru
