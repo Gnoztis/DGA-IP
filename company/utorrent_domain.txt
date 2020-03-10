@@ -92,3 +92,4 @@ i-41.b-41628.bench.utorrent.com
 i-41.b-42178.bench.utorrent.com
 i-45.b-42178.bench.utorrent.com
 i-45.b-43388.bench.utorrent.com
+cdn-assets.bittorrent.com
