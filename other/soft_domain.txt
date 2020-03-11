@@ -121,3 +121,5 @@ unchecky.com
 pkgautoupdate.synology.com
 clientupdater.raptr.com
 raptr.com
+zlib.net
+www.rarlab.com
