@@ -919,3 +919,11 @@ rtb-csync.smartadserver.com
 gk-sk.ru
 iprim.ru
 ford.xn----7sbgbjw1apuq.xn--p1a
+api.stripe.com
+checkout.stripe.com
+js.stripe.com
+m.stripe.com
+q.stripe.com
+armada.stripe.com
+files.stripe.com
+gator.stripe.com
