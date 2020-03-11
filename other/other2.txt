@@ -906,3 +906,7 @@ nordmed.org
 d28gxew657ep4x.cloudfront.net
 znamenitka.ru
 ads.clickscloud.net
+api.nyda.pro
+ws.webcaster.pro
+broadcastt.xyz
+lags.win
