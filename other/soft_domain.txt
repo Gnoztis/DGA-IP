@@ -123,3 +123,5 @@ clientupdater.raptr.com
 raptr.com
 zlib.net
 www.rarlab.com
+update.videolan.org
+videolan.org
