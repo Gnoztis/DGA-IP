@@ -12,7 +12,6 @@ europe.cryptonight-hub.miningpoolhub.com
 fcn-mro.pool.minergate.com
 fr.minexmr.com
 hash-to-coins.com
-icanhazip.com
 kippo.eu
 linux-repository-updates.com
 litecoinpool.org
