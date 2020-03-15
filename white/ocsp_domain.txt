@@ -93,3 +93,4 @@ crl.geotrust.com
 crl.ws.symantec.com
 crl3.digicert.com
 crl4.digicert.com
+ocsp.wosign.com
