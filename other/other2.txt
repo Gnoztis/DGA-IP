@@ -965,3 +965,5 @@ apilocate.amap.com
 lbs.amap.com
 dialine.org
 www.alcotest.ru
+bez-makiyazha.ru
+keith-wood.name
