@@ -961,3 +961,5 @@ autoins.ru
 www.ospserver.net
 andylongshot.com
 therapy.odmu.edu.ua
+apilocate.amap.com
+lbs.amap.com
