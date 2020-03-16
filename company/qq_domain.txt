@@ -1,0 +1,8 @@
+qq.com
+appic.qq.com
+openapi.finance.qq.com
+vv.video.qq.com
+m.api.t.qq.com
+wsm.qq.com
+message.finance.qq.com
+weshow.qq.com
