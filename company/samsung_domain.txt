@@ -89,3 +89,4 @@ smetrics.samsung.com
 images.samsung.com
 musicid.samsungcloud.tv
 cdn.samsungcloudsolution.com
+events.samsungads.com
