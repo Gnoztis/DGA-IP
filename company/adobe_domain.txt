@@ -91,3 +91,4 @@ acroipm2.adobe.com
 admdownload.adobe.com
 adobeid-na1.services.adobe.com
 genuine.adobe.com
+trustlist.adobe.com
