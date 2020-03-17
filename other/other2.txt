@@ -988,3 +988,5 @@ dns-shop.ru
 widgets.outbrain.com
 cdn.oribi.io
 oribi.io
+certify.alexametrics.com
+sync-tm.everesttech.net
