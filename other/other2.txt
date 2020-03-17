@@ -986,3 +986,5 @@ r.casalemedia.com
 c.dns-shop.ru
 dns-shop.ru
 widgets.outbrain.com
+cdn.oribi.io
+oribi.io
