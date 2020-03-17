@@ -934,7 +934,6 @@ cm.adro.co
 us.cssrvsync.com
 ld.mediaget.com
 4ik.ru
-dt4oxny0f90is.cloudfront.net
 adsecurity.org
 nou-dpo-ncot.ru
 www.rcrm.by
@@ -943,7 +942,6 @@ lady-sharm-magazin.ru
 secure.sesssib-yettn.com
 afexpert.ru
 falckmed.ru
-nou-dpo-ncot.ru
 www.polaris.lv
 academy-medical.ru
 website.informer.com
@@ -972,17 +970,13 @@ vlbeauty.club
 medrabotnik.de
 findme.ru
 tracks.vezet.ru
-s.thebrighttag.com
 ads.adthrive.com
 be5.biz
 urbandictionary.store
 secure.surveymonkey.com
 js-sec.casalemedia.com
 js-sec.indexww.com
-dsum-sec.casalemedia.com
 dsum.casalemedia.com
-ssum.casalemedia.com
-r.casalemedia.com
 c.dns-shop.ru
 dns-shop.ru
 widgets.outbrain.com
