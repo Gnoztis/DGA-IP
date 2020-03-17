@@ -977,3 +977,9 @@ ads.adthrive.com
 be5.biz
 urbandictionary.store
 secure.surveymonkey.com
+js-sec.casalemedia.com
+js-sec.indexww.com
+dsum-sec.casalemedia.com
+dsum.casalemedia.com
+ssum.casalemedia.com
+r.casalemedia.com
