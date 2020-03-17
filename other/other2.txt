@@ -990,3 +990,5 @@ cdn.oribi.io
 oribi.io
 certify.alexametrics.com
 sync-tm.everesttech.net
+z.moatads.com
+px.moatads.com
