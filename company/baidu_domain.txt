@@ -106,3 +106,5 @@ list.mp3.baidu.com
 sp3.baidu.com
 gsp3.baidu.com
 q3.baidu.com
+pics6.baidu.com
+pics7.baidu.com
