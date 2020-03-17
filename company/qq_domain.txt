@@ -535,3 +535,4 @@ fxzj.tc.qq.com
 live.sports.qq.com
 12345.qzone.qq.com
 fightimg.pet.qq.com
+wup.imtt.qq.com
