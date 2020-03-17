@@ -983,3 +983,5 @@ dsum-sec.casalemedia.com
 dsum.casalemedia.com
 ssum.casalemedia.com
 r.casalemedia.com
+c.dns-shop.ru
+dns-shop.ru
