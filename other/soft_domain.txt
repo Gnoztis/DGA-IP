@@ -128,3 +128,6 @@ videolan.org
 centos-mirror.rbc.ru
 mirror.axelname.ru
 mirror.reconn.ru
+download.documentfoundation.org
+libreoffice.org
+www.libreoffice.org
