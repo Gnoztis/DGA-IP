@@ -4,3 +4,14 @@ retracker.211.ru
 bt4.torrents.ru
 retracker.epn.ru
 retracker.chebnet.com
+update.mgtracker.org
+mgtracker.org
+tracker.orbitum.com
+orbitum.com
+tracker.mgtracker.org
+tracker.mg64.net
+bloknotik.ru
+www.mgtracker.org
+t1.mgtracker.org
+ns1.mgtracker.org
+orbitum.me

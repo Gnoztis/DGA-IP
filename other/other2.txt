@@ -1043,4 +1043,5 @@ fw.to
 shr.gs
 vst.to
 webslice.wildgames.com
-flowergarden.pro 	 	 
+flowergarden.pro
+cdn2wotcom.gcdn.co
