@@ -1070,3 +1070,4 @@ s2.wp.com.
 widgets.wp.com
 c.evidon.com
 stat.pagetime.ru
+afr.i-trailer.ru
