@@ -1054,3 +1054,17 @@ www.sangoma.com
 static.cloudflareinsights.com
 admin.pagetime.ru
 kenguru.kg
+s0.wp.com
+s1.wp.com
+s2.wp.com
+widgets.wp.com
+s.wp.com
+x0.wp.com
+s4.wp.com
+a12s.wp.com
+s5.wp.com
+s3.wp.com
+s0.wp.com.
+s1.wp.com.
+s2.wp.com.
+widgets.wp.com
