@@ -203,3 +203,4 @@ mta69.e.twitter.com
 mta9.e.twitter.com
 mta.e.twitter.com
 image.e.twitter.com
+video.twimg.com
