@@ -1041,4 +1041,5 @@ gm.us1.gigya.com
 admin.us1.gigya.com
 fw.to
 shr.gs
-vst.to	 	 	 
+vst.to
+webslice.wildgames.com	 	 	 
