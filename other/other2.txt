@@ -1106,3 +1106,8 @@ s2.getsitecontrol.com
 dash.getsitecontrol.com 
 media.getsitecontrol.com
 www.gameawards.ru
+vlast-sovetov.ru
+atc25.ru
+www.atc25.ru
+www.officio.ru
+static.supersmi.ga
