@@ -125,3 +125,6 @@ zlib.net
 www.rarlab.com
 update.videolan.org
 videolan.org
+centos-mirror.rbc.ru
+mirror.axelname.ru
+mirror.reconn.ru
