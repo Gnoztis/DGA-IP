@@ -1045,3 +1045,5 @@ vst.to
 webslice.wildgames.com
 flowergarden.pro
 cdn2wotcom.gcdn.co
+gallery.mailchimp.com
+mailchimp.com
