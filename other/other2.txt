@@ -1074,3 +1074,4 @@ afr.i-trailer.ru
 media.lpgenerator.ru
 static.lpgenerator.ru
 pravcons.ru
+etnodali.ru
