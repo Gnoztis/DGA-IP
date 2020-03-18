@@ -1079,3 +1079,4 @@ sur.ly
 chng.it
 www.1tv.ru
 katyaburg.ru
+fast.wistia.com
