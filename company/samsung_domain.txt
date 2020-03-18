@@ -90,3 +90,4 @@ images.samsung.com
 musicid.samsungcloud.tv
 cdn.samsungcloudsolution.com
 events.samsungads.com
+file-eu-10-240-141-108.file.samsungcloud.com
