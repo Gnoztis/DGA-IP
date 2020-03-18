@@ -1105,3 +1105,4 @@ l.getsitecontrol.com
 s2.getsitecontrol.com
 dash.getsitecontrol.com 
 media.getsitecontrol.com
+www.gameawards.ru
