@@ -38,3 +38,4 @@ frontier.musical.ly
 support.musical.ly
 webcast.musical.ly
 www.musical.ly
+log2-useast2a.musical.ly
