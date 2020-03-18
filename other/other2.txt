@@ -1053,3 +1053,4 @@ www.imc.com
 www.sangoma.com
 static.cloudflareinsights.com
 admin.pagetime.ru
+kenguru.kg
