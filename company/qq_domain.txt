@@ -536,3 +536,13 @@ live.sports.qq.com
 12345.qzone.qq.com
 fightimg.pet.qq.com
 wup.imtt.qq.com
+en.mail.qq.com
+mail.qq.com
+email.qq.com
+set2.mail.qq.com
+set3.mail.qq.com
+rl.mail.qq.com
+www.mail.qq.com
+shot.mail.qq.com
+vip.mail.qq.com
+domain.mail.qq.com
