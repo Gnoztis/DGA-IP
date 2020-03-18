@@ -2558,3 +2558,4 @@ edge-mqtt-latest-shv-01-cdg2.facebook.com
 edge-snaptu-http-p1-shv-01-gig2.facebook.com
 edge-z-p4-shv-01-gig2.facebook.com
 livestream-edgetee-upload-shv-01-gig2.facebook.com
+whatsapp-chatd-edge-shv-01-mia3.facebook.com
