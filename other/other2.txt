@@ -1069,3 +1069,4 @@ s1.wp.com.
 s2.wp.com.
 widgets.wp.com
 c.evidon.com
+stat.pagetime.ru
