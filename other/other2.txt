@@ -993,8 +993,6 @@ nsportal.ru
 cdndl.zaycev.net
 survey.us.confirmit.com
 tg.rktch.com
-ut.rktch.com
-ut9.rktch.com
 mfc31.ru
 mfc31-belgorod.ru
 giri-kirov.ru
@@ -1033,7 +1031,6 @@ ids.us1.gigya.com
 admin.eu1.gigya.com
 admin.au1.gigya.com
 gscounters.gigya.com
-gscounters.us1.gigya.com
 gscounters.eu1.gigya.com
 gscounters.au1.gigya.com
 gm.eu1.gigya.com
@@ -1045,7 +1042,6 @@ vst.to
 webslice.wildgames.com
 flowergarden.pro
 cdn2wotcom.gcdn.co
-gallery.mailchimp.com
 mailchimp.com
 npo-echelon.ru
 track.trackurl.ru
@@ -1067,8 +1063,6 @@ s3.wp.com
 s0.wp.com.
 s1.wp.com.
 s2.wp.com.
-widgets.wp.com
-c.evidon.com
 stat.pagetime.ru
 afr.i-trailer.ru
 media.lpgenerator.ru
@@ -1085,18 +1079,13 @@ j.adlooxtracking.com
 arcgis.com
 kak-pishetsya.com
 public-prod-dspcookiematching.dmxleo.com
-cti.w55c.net
 loadus.exelator.com
 pool.admedo.com
-static.adsafeprotected.com
-sync-tm.everesttech.net
 rb.ru
 www.primposuda.ru
 www.rbvl.ru
 pasregrosminzdrav.ru
 www.elyricsworld.com
-ib.3lift.com
-s0.wp.com
 wp.com
 st.getsitecontrol.com
 widgets.getsitecontrol.com
@@ -1112,7 +1101,6 @@ www.atc25.ru
 www.officio.ru
 static.supersmi.ga
 www.prominform.ru
-ads.yieldmo.com
 esnc.yieldmo.com
 www.solidarnost.org
 sportdetstvo.ru
@@ -1124,4 +1112,9 @@ get.optad360.io
 i5.otzovik.com
 otzovik.com
 stroymanual.com
-cdn01.nativeroll.tv
+www.medteh.info
+docs.freebsd.org
+lombardin.kiev.ua
+www.tamby.info
+school85.permedu.ru
+tamby.info
