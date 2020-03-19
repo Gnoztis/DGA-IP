@@ -546,3 +546,4 @@ www.mail.qq.com
 shot.mail.qq.com
 vip.mail.qq.com
 domain.mail.qq.com
+tpns.qq.com
