@@ -164,3 +164,4 @@ mozilla.fr
 profile.accounts.firefox.com
 blocklists.settings.services.mozilla.com
 content-signature.mozilla.org
+mitmdetection.services.mozilla.com
