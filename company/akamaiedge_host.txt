@@ -50,3 +50,4 @@ n0e11.akamaiedge.net
 n1e11.akamaiedge.net
 n2e11.akamaiedge.net
 e1429.x.akamaiedge.net
+e13678.dscg.akamaiedge.net
