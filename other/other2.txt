@@ -1152,3 +1152,4 @@ ns1.timeweb.ru
 ns2.timeweb.ru
 ns3.timeweb.org
 ns4.timeweb.org
+splitcamera.com
