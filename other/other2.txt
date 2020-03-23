@@ -1140,3 +1140,4 @@ static.apester.com
 ak.imgfarm.com
 img.rating-widget.com
 rating-widget.com
+e1429.x.akamaiedge.net
