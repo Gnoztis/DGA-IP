@@ -1146,3 +1146,4 @@ kabaeva-alina.ru
 chehia-avto.ru
 hrmexpo.ru
 mktrus.ru
+telemetry.api.swiftkey.com
