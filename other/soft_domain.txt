@@ -131,3 +131,4 @@ mirror.reconn.ru
 download.documentfoundation.org
 libreoffice.org
 www.libreoffice.org
+www.7-zip.org
