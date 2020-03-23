@@ -1135,3 +1135,8 @@ fontawesome-cdn.fonticons.netdna-cdn.com
 tp00.everesttech.net.akadns.net
 dungeonsanddragons.ru
 api.vidiom.net
+img.apester.com
+static.apester.com
+ak.imgfarm.com
+img.rating-widget.com
+rating-widget.com
