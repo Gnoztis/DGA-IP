@@ -1134,3 +1134,4 @@ linkinghub.elsevier.com
 fontawesome-cdn.fonticons.netdna-cdn.com
 tp00.everesttech.net.akadns.net
 dungeonsanddragons.ru
+api.vidiom.net
