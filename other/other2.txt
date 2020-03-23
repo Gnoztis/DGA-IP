@@ -1130,3 +1130,5 @@ www.zaycev.fm
 www.new-stamps.com
 www.sportdetstvo.ru
 hit28.hotlog.ru
+linkinghub.elsevier.com
+fontawesome-cdn.fonticons.netdna-cdn.com
