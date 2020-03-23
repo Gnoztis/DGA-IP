@@ -1956,3 +1956,5 @@ newmedialabs-co-za.mail.eo.outlook.com
 johnfsupple-ie.mail.eo.outlook.com
 static-entertainment-eas-s-msn-com.akamaized.net
 ie11fre.microsoft.com
+azweu1-client-s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
