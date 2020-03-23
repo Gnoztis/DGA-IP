@@ -49,3 +49,4 @@ user-att-99-43-168-0.e607.e11.akamaiedge.net
 n0e11.akamaiedge.net
 n1e11.akamaiedge.net
 n2e11.akamaiedge.net
+e1429.x.akamaiedge.net
