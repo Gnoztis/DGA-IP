@@ -132,3 +132,6 @@ download.documentfoundation.org
 libreoffice.org
 www.libreoffice.org
 www.7-zip.org
+isoredirect.centos.org
+mirror.centos.org
+mirrorlist.centos.org
