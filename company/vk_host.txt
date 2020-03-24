@@ -4,3 +4,5 @@ sun1-26.userapi.com
 sun1-91.userapi.com
 sun1-99.userapi.com
 sun1-84.userapi.com
+sun1-91.userapi.com
+sun1-99.userapi.com
