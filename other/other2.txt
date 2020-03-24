@@ -1154,3 +1154,10 @@ ns3.timeweb.org
 ns4.timeweb.org
 splitcamera.com
 clientstream.launchdarkly.com
+vladivostok.you-visa.com
+you-visa.com
+moscow.you-visa.com
+krasnodar.you-visa.com
+ulan-ude.you-visa.com
+tyumen.you-visa.com
+smolensk.you-visa.com
