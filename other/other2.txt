@@ -1161,3 +1161,5 @@ krasnodar.you-visa.com
 ulan-ude.you-visa.com
 tyumen.you-visa.com
 smolensk.you-visa.com
+dietsday.com
+forsmallbaby.ru
