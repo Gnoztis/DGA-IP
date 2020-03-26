@@ -25,3 +25,4 @@ dl-client30.dropbox.com
 dl-debug140.dropbox.com
 dl-debug240.dropbox.com
 dl-debug40.dropbox.com
+api-d.dropbox.com
