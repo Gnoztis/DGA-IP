@@ -1958,3 +1958,5 @@ static-entertainment-eas-s-msn-com.akamaized.net
 ie11fre.microsoft.com
 azweu1-client-s.gateway.messenger.live.com
 client-s.gateway.messenger.live.com
+cp601.prod.do.dsp.mp.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
