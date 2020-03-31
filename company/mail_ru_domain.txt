@@ -1,3 +1,4 @@
+cdn.connect.mail.ru
 health.mail.ru
 mail.ru
 news.mail.ru
