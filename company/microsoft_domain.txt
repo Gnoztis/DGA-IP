@@ -1960,3 +1960,5 @@ azweu1-client-s.gateway.messenger.live.com
 client-s.gateway.messenger.live.com
 cp601.prod.do.dsp.mp.microsoft.com
 kv601.prod.do.dsp.mp.microsoft.com
+cdn.onenote.net
+onenote.net
