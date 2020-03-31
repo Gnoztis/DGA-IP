@@ -1185,3 +1185,4 @@ a.tiles.mapbox.com
 b.tiles.mapbox.com
 cloudflare-dns.com
 s61.radikal.ru
+tivitblock.ru
