@@ -1186,3 +1186,4 @@ b.tiles.mapbox.com
 cloudflare-dns.com
 s61.radikal.ru
 tivitblock.ru
+trud-ost.ru
