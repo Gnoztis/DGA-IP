@@ -1187,3 +1187,5 @@ cloudflare-dns.com
 s61.radikal.ru
 tivitblock.ru
 trud-ost.ru
+mil.ru
+stat.sputnik.ru
