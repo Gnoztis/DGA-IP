@@ -1203,3 +1203,6 @@ api-public.addthis.com
 v1.addthisedge.com
 m.addthis.com
 s7.addthis.com
+static6.mtdata.ru
+static8.mtdata.ru
+cw.addthis.com
