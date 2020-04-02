@@ -94,3 +94,7 @@ crl.ws.symantec.com
 crl3.digicert.com
 crl4.digicert.com
 ocsp.wosign.com
+sv.symcb.com
+crl.pki.goog
+crl.godaddy.com
+cacerts.rapidssl.com
