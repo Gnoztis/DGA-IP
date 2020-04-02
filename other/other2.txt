@@ -1196,3 +1196,5 @@ vestniknews.ru
 spas01.ru
 eurosiz.ru
 kuklenok.ru
+s7.addthis.com
+m.addthis.com
