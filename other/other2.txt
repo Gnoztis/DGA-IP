@@ -1206,3 +1206,6 @@ s7.addthis.com
 static6.mtdata.ru
 static8.mtdata.ru
 cw.addthis.com
+m.addthis.com
+s7.addthis.com
+v1.addthisedge.com
