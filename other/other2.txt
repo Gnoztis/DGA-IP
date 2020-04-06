@@ -1210,3 +1210,4 @@ info.spasibosb.ru
 d32hwlnfiv2gyn.cloudfront.net
 dnslookup.fr
 bookbear.net
+med-p.ru
