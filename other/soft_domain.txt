@@ -135,3 +135,4 @@ www.7-zip.org
 isoredirect.centos.org
 mirror.centos.org
 mirrorlist.centos.org
+update.libreoffice.org
