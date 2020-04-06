@@ -886,3 +886,13 @@ bf1-as-tmg01-dmz2.corp.bf1.yahoo.com
 isops1-b.corp.bf1.yahoo.com
 vpn-1-gci.corp.bf1.yahoo.com
 ucmprodps7-scan.corp.bf1.yahoo.com
+mtaproxy4.free.mail.vip.gq1.yahoo.com
+media-router-fp2.prod1.media.vip.gq1.yahoo.com
+media-router-fp1.prod1.media.vip.gq1.yahoo.com
+mtaproxy4.free.mail.vip.ne1.yahoo.com
+mtaproxy1.free.mail.vip.gq1.yahoo.com
+mtaproxy5.free.mail.vip.ne1.yahoo.com
+mtaproxy1.free.mail.vip.ne1.yahoo.com
+mtaproxy3.free.mail.vip.ne1.yahoo.com
+mtaproxy2.free.mail.vip.ne1.yahoo.com
+mtaproxy3.free.mail.vip.gq1.yahoo.com
