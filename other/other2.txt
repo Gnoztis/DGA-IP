@@ -1217,3 +1217,5 @@ tavdastom.ru
 cardiology24.ru
 info.spasibosb.ru
 s7.addthis.com
+m.addthis.com
+v1.addthisedge.com
