@@ -1963,3 +1963,4 @@ kv601.prod.do.dsp.mp.microsoft.com
 cdn.onenote.net
 onenote.net
 1drv.ms
+msedge.b.tlu.dl.delivery.mp.microsoft.com

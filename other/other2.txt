@@ -1220,3 +1220,4 @@ s7.addthis.com
 m.addthis.com
 v1.addthisedge.com
 d32hwlnfiv2gyn.cloudfront.net
+dnslookup.fr
