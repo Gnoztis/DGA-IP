@@ -1228,3 +1228,4 @@ en.academic.ru
 russiaschools.ru
 www.polaris.lv
 www.yutex.ru
+www.r25.fss.ru
