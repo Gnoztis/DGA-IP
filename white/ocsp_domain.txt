@@ -98,3 +98,4 @@ sv.symcb.com
 crl.pki.goog
 crl.godaddy.com
 cacerts.rapidssl.com
+certificates.godaddy.com
