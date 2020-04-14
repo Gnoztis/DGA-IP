@@ -164,3 +164,4 @@ ksn-tcert-geo.kaspersky-labs.com
 ksn-tcert.geo.kaspersky.com
 ksn-crypto-tcert.geo.kaspersky.com
 ksn-crypto-tcert.geo.labkas.com
+rules.emergingthreats.net
