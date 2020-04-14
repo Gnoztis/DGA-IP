@@ -1964,3 +1964,4 @@ cdn.onenote.net
 onenote.net
 1drv.ms
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+userpresence.xboxlive.com
