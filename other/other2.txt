@@ -1260,3 +1260,5 @@ i4.sndcdn.com
 i3.sndcdn.com
 data.pendo.io
 pendo.io
+camry-club.ru
+www.amico.ru
