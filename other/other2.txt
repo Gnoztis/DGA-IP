@@ -1258,3 +1258,5 @@ balancer.wixdns.net
 i2.sndcdn.com
 i4.sndcdn.com
 i3.sndcdn.com
+data.pendo.io
+pendo.io
