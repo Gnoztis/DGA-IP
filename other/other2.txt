@@ -1255,3 +1255,6 @@ pp.lp4.io
 dl3.joxi.net
 username.wix.com
 balancer.wixdns.net
+i2.sndcdn.com
+i4.sndcdn.com
+i3.sndcdn.com
