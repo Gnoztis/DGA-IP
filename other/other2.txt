@@ -1248,3 +1248,6 @@ p1.zemanta.com
 pmp3.ru
 koropt.ru
 p-vl.ru
+img1.wsimg.com
+img.img-taboola.com
+links.email.gfi.com
