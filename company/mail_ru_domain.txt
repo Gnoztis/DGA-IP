@@ -92,3 +92,4 @@ cspreport.mail.ru
 2929482088.webagent.mail.ru
 smtp.mail.com
 mx01.mail.com
+af12.mail.ru
