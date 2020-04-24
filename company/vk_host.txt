@@ -1,4 +1,5 @@
 vk.com
+away.vk.com
 pp.userapi.com
 sun1-26.userapi.com
 sun1-91.userapi.com
