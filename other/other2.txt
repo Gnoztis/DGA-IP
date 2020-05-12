@@ -1434,3 +1434,4 @@ ns1.reg.ru
 ns2.timeweb.ru
 ns1.timeweb.ru
 cloe.ns.cloudflare.com
+cell.com
