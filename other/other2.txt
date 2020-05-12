@@ -1436,3 +1436,11 @@ ns1.timeweb.ru
 cloe.ns.cloudflare.com
 cell.com
 savepic.su
+ns1.he.net
+ns1.first-ns.de
+robotns3.second-ns.com
+robotns2.second-ns.de
+ns2.he.net
+ns3.he.net
+ns5.he.net
+ns4.he.net
