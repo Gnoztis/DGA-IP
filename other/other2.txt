@@ -1394,3 +1394,10 @@ ns-cloud-d3.googledomains.com
 gail.ns.cloudflare.com
 ns2.ihc.ru
 www.medspros.ru
+xn--b1alilefhp.xn--p1ai
+www.ruspoliv.ru
+ns3.he.net
+ns5.he.net
+ns4.he.net
+ns2.he.net
+ns1.he.net
