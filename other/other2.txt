@@ -1475,3 +1475,5 @@ ns72.domaincontrol.com
 vin.ns.cloudflare.com
 ns2.beget.ru
 priem.mirea.ru
+www.mirea.ru
+mirea.ru
