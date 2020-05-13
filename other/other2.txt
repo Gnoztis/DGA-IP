@@ -1483,3 +1483,5 @@ ns.majordomo.ru
 ns2.majordomo.ru
 ns3.majordomo.ru
 krovlyakrishi.ru
+pfr-izhevsk.ru
+s61.ucoz.net
