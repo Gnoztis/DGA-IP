@@ -1477,3 +1477,8 @@ ns2.beget.ru
 priem.mirea.ru
 www.mirea.ru
 mirea.ru
+ns1.r01.ru
+ns2.r01.ru
+ns.majordomo.ru
+ns2.majordomo.ru
+ns3.majordomo.ru
