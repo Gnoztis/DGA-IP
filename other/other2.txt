@@ -1482,3 +1482,4 @@ ns2.r01.ru
 ns.majordomo.ru
 ns2.majordomo.ru
 ns3.majordomo.ru
+krovlyakrishi.ru
