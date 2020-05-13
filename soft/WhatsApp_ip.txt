@@ -1,3 +1,4 @@
+#https://developers.facebook.com/docs/whatsapp/guides/network-requirements/?locale=pt_BR#ipaddresses
 31.13.64.51/32
 31.13.64.53/32
 31.13.65.49/32
