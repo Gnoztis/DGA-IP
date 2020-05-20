@@ -100,3 +100,4 @@ jsonip.com
 api.ipify.org
 ip.42.pl
 httpbin.org
+ipchicken.com
