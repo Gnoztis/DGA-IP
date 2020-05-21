@@ -620,3 +620,6 @@ emupdate.avcdn.net
 sea03-015.ff.avast.com
 software-cleanup.ff.avast.com
 s-iavs9x.avcdn.net
+engagement.avastbrowser.com
+avastbrowser.com
+download.avastbrowser.com
