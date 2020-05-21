@@ -1733,3 +1733,6 @@ pixs.ru
 dmp.gotechnology.io
 data-vyhoda.com
 tracker.clickme.pro
+servicer.lentainform.com
+clck.lentainform.com
+easylist-downloads.adblockplus.org
