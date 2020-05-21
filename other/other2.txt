@@ -1738,3 +1738,6 @@ clck.lentainform.com
 easylist-downloads.adblockplus.org
 s-img.lentainform.com
 servicer.lentainform.com
+cws.connectedpdf.com
+connectedpdf.com
+cloud.connectedpdf.com
