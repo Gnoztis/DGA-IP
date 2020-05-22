@@ -138,3 +138,5 @@ mirrorlist.centos.org
 update.libreoffice.org
 mirrors.rpmfusion.org
 download1.rpmfusion.org
+updater.prntscr.com
+prntscr.com
