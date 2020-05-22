@@ -99,3 +99,4 @@ crl.pki.goog
 crl.godaddy.com
 cacerts.rapidssl.com
 certificates.godaddy.com
+crl.sectigo.com
