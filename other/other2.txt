@@ -1741,3 +1741,5 @@ servicer.lentainform.com
 cws.connectedpdf.com
 connectedpdf.com
 cloud.connectedpdf.com
+amfeed.ru
+eesg.ru
