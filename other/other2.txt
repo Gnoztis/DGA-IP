@@ -1755,3 +1755,4 @@ www.avito.st
 static.avito.ru
 track.segmentstream.com
 domotopim.ru
+mdk-arbat.ru
