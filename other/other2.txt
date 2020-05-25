@@ -1754,3 +1754,4 @@ www.avito.st
 17.img.avito.st
 static.avito.ru
 track.segmentstream.com
+domotopim.ru
