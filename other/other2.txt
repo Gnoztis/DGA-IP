@@ -1756,3 +1756,4 @@ static.avito.ru
 track.segmentstream.com
 domotopim.ru
 mdk-arbat.ru
+sincorechan.ru
