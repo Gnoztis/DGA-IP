@@ -1753,3 +1753,4 @@ www.avito.st
 96.img.avito.st
 17.img.avito.st
 static.avito.ru
+track.segmentstream.com
