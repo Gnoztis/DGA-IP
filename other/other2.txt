@@ -1676,3 +1676,7 @@ daisy.ns.cloudflare.com
 ns2.spaceweb.ru
 ns1.dnsmadeeasy.com
 ns4.spaceweb.pro
+ns.second-ns.com
+ns1.your-server.de
+ns1.your-server.de
+ns3.second-ns.de
