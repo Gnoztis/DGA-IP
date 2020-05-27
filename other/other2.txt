@@ -1682,3 +1682,6 @@ ns1.your-server.de
 ns3.second-ns.de
 spinalhelp.ru
 www.fsk-ees.ru
+ns14.inhostedns.com
+ns24.inhostedns.net
+ns34.inhostedns.org
