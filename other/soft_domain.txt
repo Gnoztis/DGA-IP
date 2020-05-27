@@ -142,3 +142,6 @@ updater.prntscr.com
 prntscr.com
 www.anvir.com
 anvir.com
+developer.api.autodesk.com
+autodesk.com
+api.autodesk.com
