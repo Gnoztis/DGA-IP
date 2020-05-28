@@ -1688,3 +1688,6 @@ ns34.inhostedns.org
 ceramicadom.ru
 ns3.macomnet.ru
 hotenergy.ru
+arnold.ns.cloudflare.com
+ns1.r01.ru
+ns2.r01.ru
