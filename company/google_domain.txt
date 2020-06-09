@@ -6045,3 +6045,12 @@ pendo-static-5083953083187200.storage.googleapis.com
 amn1521841300.storage.googleapis.com
 pendo-static-6038289914265600.storage.googleapis.com
 doc-0k-c8-docs.googleusercontent.com
+doc-0c-ag-docs.googleusercontent.com
+doc-00-18-docs.googleusercontent.com
+doc-0g-5s-docs.googleusercontent.com
+doc-0s-5o-docs.googleusercontent.com
+doc-0k-28-docs.googleusercontent.com
+doc-0c-64-docs.googleusercontent.com
+doc-0s-20-docs.googleusercontent.com
+doc-0o-7s-docs.googleusercontent.com
+doc-0k-98-docs.googleusercontent.com
