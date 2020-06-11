@@ -1699,3 +1699,5 @@ cfg.cml.ksmobile.com
 ams3.digitaloceanspaces.com
 s02.yapfiles.ru
 mandrillapp.com
+calendly.com
+workers.dev

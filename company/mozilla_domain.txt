@@ -167,3 +167,4 @@ content-signature.mozilla.org
 mitmdetection.services.mozilla.com
 api.accounts.firefox.com
 identity.mozilla.com
+send.firefox.com

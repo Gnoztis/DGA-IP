@@ -1195,3 +1195,4 @@ s117f.storage.yandex.net
 s127f.storage.yandex.net
 zima27f.storage.yandex.net
 frontend.vh.yandex.ru
+yadi.sk
