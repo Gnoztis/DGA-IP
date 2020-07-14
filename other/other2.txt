@@ -1703,3 +1703,5 @@ calendly.com
 workers.dev
 www.mirkvartir.ru
 sample-videos.com
+www.avito.ru
+avito.ru
