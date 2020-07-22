@@ -147,3 +147,4 @@ autodesk.com
 api.autodesk.com
 www.xml-converter.com
 api.shodan.io
+cdn.remirepo.net
