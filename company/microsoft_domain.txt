@@ -1970,3 +1970,6 @@ cp501.prod.do.dsp.mp.microsoft.com
 disc501.prod.do.dsp.mp.microsoft.com
 kv501.prod.do.dsp.mp.microsoft.com
 cp501.prod.do.dsp.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+kv501.prod.do.dsp.mp.microsoft.com
