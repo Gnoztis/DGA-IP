@@ -165,3 +165,5 @@ ksn-tcert.geo.kaspersky.com
 ksn-crypto-tcert.geo.kaspersky.com
 ksn-crypto-tcert.geo.labkas.com
 rules.emergingthreats.net
+www.xforce-security.com
+xforce-security.com

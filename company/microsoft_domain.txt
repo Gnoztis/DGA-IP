@@ -1966,3 +1966,10 @@ onenote.net
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 userpresence.xboxlive.com
 presence-heartbeat.xboxlive.com
+cp501.prod.do.dsp.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
+kv501.prod.do.dsp.mp.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+kv501.prod.do.dsp.mp.microsoft.com

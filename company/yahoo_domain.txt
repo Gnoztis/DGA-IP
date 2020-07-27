@@ -896,3 +896,11 @@ mtaproxy1.free.mail.vip.ne1.yahoo.com
 mtaproxy3.free.mail.vip.ne1.yahoo.com
 mtaproxy2.free.mail.vip.ne1.yahoo.com
 mtaproxy3.free.mail.vip.gq1.yahoo.com
+mta5.am0.yahoodns.net
+mta6.am0.yahoodns.net
+mta7.am0.yahoodns.net
+ns1.yahoo.com
+ns2.yahoo.com
+ns3.yahoo.com
+ns4.yahoo.com
+ns5.yahoo.com

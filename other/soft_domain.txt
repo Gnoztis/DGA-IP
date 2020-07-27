@@ -136,3 +136,15 @@ isoredirect.centos.org
 mirror.centos.org
 mirrorlist.centos.org
 update.libreoffice.org
+mirrors.rpmfusion.org
+download1.rpmfusion.org
+updater.prntscr.com
+prntscr.com
+www.anvir.com
+anvir.com
+developer.api.autodesk.com
+autodesk.com
+api.autodesk.com
+www.xml-converter.com
+api.shodan.io
+cdn.remirepo.net

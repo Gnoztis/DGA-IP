@@ -1,3 +1,4 @@
+
 facebook.com
 fbcdn.net
 fb.me
@@ -2607,3 +2608,5 @@ s7.whatsapp.net
 s8.whatsapp.net
 s9.whatsapp.net
 s10.whatsapp.net
+whatsapp-chatd-edge-shv-01-iad3.facebook.com
+cdn.fbsbx.com

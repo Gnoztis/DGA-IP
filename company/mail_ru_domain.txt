@@ -94,3 +94,4 @@ smtp.mail.com
 mx01.mail.com
 af12.mail.ru
 mpandroid-filin.mail.ru
+my.com
